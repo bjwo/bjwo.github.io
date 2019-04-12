@@ -1,0 +1,17 @@
+bjoern:
+  name        : "Bjoern"
+  bio         : "My personal blog."
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:webmaster@bjwo.de"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://bjwo.de"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bjoernw"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://instagram.com/bjoernontour"
