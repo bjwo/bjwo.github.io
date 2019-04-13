@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -20,7 +20,7 @@ title                    : "Bjoern's Blog"
 title_separator          : "-"
 name                     : "Bjoern Woppmann"
 description              : "My personal blog."
-url                      : "https://bjwo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bjwo.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : bjwo/bjwo.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Björn"
   avatar           : "/assets/images/bjoern.jpg"
-  bio              :
+  bio              : "A blog about my cycling adventures."
   location         : "Mannheim, Germany"
   email            : webmaster@bjwo.de
   links:
@@ -282,5 +282,3 @@ defaults:
       comments: true
       share: false
       related: false
-
-theme: jekyll-theme-modernist

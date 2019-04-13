@@ -1,5 +1,5 @@
 <figure class="third">
   {% for i in (1..include.no) %}
-    <a href="/assets/images/EuroVelo10/day{{ include.day }}/{{ i }}.jpg"><img src="/assets/images/cycle2finland/day{{ include.day }}/{{ i }}.jpg"></a>
+    <a href="/assets/images/EuroVelo10/day{{ include.day }}/{{ i }}.jpg"><img src="/assets/images/EuroVelo10/day{{ include.day }}/{{ i }}.jpg"></a>
   {% endfor %}
 </figure>
