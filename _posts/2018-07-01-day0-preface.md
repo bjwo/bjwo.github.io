@@ -1,10 +1,12 @@
 ---
 title: "Day 0: Preface: Cycle from Germany to Finland and back"
-excerpt: "Who am I? Why did I cycle to Finland and back?"
+excerpt: "Who am I? Why did I cycle to Finland and back? What gear did I use? Where did I sleep? How did I navigate? Find answers here."
 categories:
-  - cycle2finland
+  - EuroVelo10
 tags:
   - preface
+  - EV10
+  - EuroVelo 10
 toc: true
 ---
 
