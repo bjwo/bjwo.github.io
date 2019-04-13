@@ -1,8 +1,6 @@
 ---
 title: "Day 1: Mannheim to Glauberg"
 excerpt: "132 km"
-day: 1
-images: 11
 categories:
   - EuroVelo10
 tags:

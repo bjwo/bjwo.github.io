@@ -2,7 +2,7 @@
 title: "Day 4: Eisenach to Erfurt"
 excerpt: "93 km"
 categories:
-  - Cycle2Finland
+  - EuroVelo10
 tags:
   - Germany
 ---
