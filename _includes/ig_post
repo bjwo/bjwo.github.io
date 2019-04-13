@@ -1,0 +1,3 @@
+**{{ page.date | date: '%B %d, %Y' }} - {{ page.excerpt }}**
+
+**[Instagram post]({{ include.url }}):**<br>
