@@ -18,7 +18,7 @@ My grandma lives in Finland, my girlfriend's a teacher who had the month of Augu
 
 So when planning for my sabbatical I had the idea that I could combine all of my interests and cycle from Mannheim (Germany) to Vaasa (Finnland) to see my grandma, and then cycle back through Finland and Sweden with my girlfriend during her summer break.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1FIKVaWDrWijat_I2hnyT35WbmzbGqScg" height="700" width="936"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1FIKVaWDrWijat_I2hnyT35WbmzbGqScg" height="700" width=100%></iframe>
 
 ## My passion for cycling
 
