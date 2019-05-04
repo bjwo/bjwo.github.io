@@ -1,10 +1,10 @@
 ---
-title: "Day 18: Karwia to Władysławowo to Gdansk"
+title: "Day 18: Karwia to Władysławowo to Gdańsk"
 excerpt: "16 km"
 categories:
   - EuroVelo10
 tags:
-  - Germany
+  - Poland
 ---
 {% include ig_post url="https://www.instagram.com/p/Blc5Oxel5N2/" %}
 _#day18 my unlucky streak continues… 😉 I only made 2,5km before my bike carrier broke yesterday. The screw broke off in the middle, and half of the screw remains in the bike frame, to be more precise. This meant my back wheel was locked in place and I couldn't continue. <br>

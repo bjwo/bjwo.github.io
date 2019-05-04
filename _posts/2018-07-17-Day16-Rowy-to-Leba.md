@@ -4,7 +4,7 @@ excerpt: "53 km"
 categories:
   - EuroVelo10
 tags:
-  - Germany
+  - Poland
 ---
 {% include ig_post url="https://www.instagram.com/p/BlXieIYlld8/" %}
 _#day16: words or these pictures cannot describe my frustration yesterday. I understood before that the #ev10 is not fully developed, but didn't expect the roads to be in this bad shape.

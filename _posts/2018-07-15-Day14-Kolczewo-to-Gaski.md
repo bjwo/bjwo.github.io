@@ -4,7 +4,7 @@ excerpt: "102 km"
 categories:
   - EuroVelo10
 tags:
-  - Germany
+  - Poland
 ---
 {% include ig_post url="https://www.instagram.com/p/BlSAOqNhojv/" %}
 _#day14: for the first 40 km or so the roads were pretty terrible and I had to fight quite hard to move ahead. To me it's unfathomable, how this can be a part of the official Eurovelo network.

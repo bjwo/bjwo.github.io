@@ -4,7 +4,7 @@ excerpt: "63 km"
 categories:
   - EuroVelo10
 tags:
-  - Germany
+  - Poland
 ---
 {% include ig_post url="https://www.instagram.com/p/BlZzSI3l094/" %}
 _#day17: was again a tough day and I only managed to get #63km done. However, due to my adjusted, lowered expectations, I am proud to say that I did not yell any profanities once. 😉

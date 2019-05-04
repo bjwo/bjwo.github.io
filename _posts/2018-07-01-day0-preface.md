@@ -69,6 +69,21 @@ Originally, I had documented and "blogged" the trip in Instagram. This turned ou
 
 As I am planning to do another trip this summer, I am now documenting this on my blog and also including the pics and info from my instagram account.
 
+## Staying Clean(ish)
+
+### Laundry
+
+Keeping clothes clean on the road requires a bit of planning ahead. As I like to stay out in the wild and on the road as much as possible, this is what I did for laundry: I have a dry bag out of rigid PVC material. So for laundry I just need a tap for water and then some sink or toilet to dispose of the dirt water. I brought powdered laundry detergent with me. So I let my clothes soak with the detergent, then work it with my hands, and then did 2 or 3 rinse cycles. Then I hung my clothes all around my bicycle.
+
+### Personal Hygiene
+
+* Public Swimming Pools / Beaches
+* Gyms
+* Golf clubs (they even let us use the sauna for free several times)
+* Water taps / wells in the wild
+
+Whenever I found a place to shower, I typically also do some quick laundry as described above.
+
 ## Finding places to sleep
 
 ### Germany

@@ -4,6 +4,7 @@ excerpt: "92 km"
 categories:
   - EuroVelo10
 tags:
+  - Poland
   - Germany
 ---
 {% include ig_post url="https://www.instagram.com/p/BlQPheYBfBN/" %}
