@@ -1,5 +1,5 @@
 ---
-title: "Day 25: Teijo National Park to Raseborg"
+title: "EV10: Day 25: Teijo National Park to Raseborg"
 excerpt: "67 km"
 categories:
   - EuroVelo10

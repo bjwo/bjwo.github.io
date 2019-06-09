@@ -1,5 +1,5 @@
 ---
-title: "Day 27: Sjundeå to Helsinki to Vantaa"
+title: "EV10: Day 27: Sjundeå to Helsinki to Vantaa"
 excerpt: "64 km"
 categories:
   - EuroVelo10

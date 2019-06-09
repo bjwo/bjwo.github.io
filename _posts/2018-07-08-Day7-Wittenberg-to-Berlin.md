@@ -1,5 +1,5 @@
 ---
-title: "Day 7: Wittenberg to Berlin"
+title: "EV10: Day 7: Wittenberg to Berlin"
 excerpt: "123 km"
 categories:
   - EuroVelo10

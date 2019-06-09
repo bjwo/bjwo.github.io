@@ -1,5 +1,5 @@
 ---
-title: "Day 14: Kolczewo to Gąski"
+title: "EV10: Day 14: Kolczewo to Gąski"
 excerpt: "102 km"
 categories:
   - EuroVelo10

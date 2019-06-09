@@ -1,5 +1,5 @@
 ---
-title: "Days 8 - 10: Rest Days Berlin"
+title: "EV10: Days 8 - 10: Rest Days Berlin"
 excerpt: "Waiting for the rain to pass by."
 categories:
   - EuroVelo10

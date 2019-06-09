@@ -1,5 +1,5 @@
 ---
-title: "Day 2: Glauberg to Bad Hersfeld"
+title: "EV10: Day 2: Glauberg to Bad Hersfeld"
 excerpt: "111 km"
 categories:
   - EuroVelo10

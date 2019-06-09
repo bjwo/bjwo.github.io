@@ -1,5 +1,5 @@
 ---
-title: "Day 26: Raseborg to Sjundeå"
+title: "EV10: Day 26: Raseborg to Sjundeå"
 excerpt: "74 km"
 categories:
   - EuroVelo10

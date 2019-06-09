@@ -1,5 +1,5 @@
 ---
-title: "Day 3: Bad Hersfeld to Eisenach"
+title: "EV10: Day 3: Bad Hersfeld to Eisenach"
 excerpt: "67 km"
 categories:
   - EuroVelo10

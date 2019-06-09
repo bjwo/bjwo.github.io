@@ -1,5 +1,5 @@
 ---
-title: "Days 19 - 20: Rest Days Gdańsk"
+title: "EV10: Days 19 - 20: Rest Days Gdańsk"
 excerpt: "Bicycle Repair & Sightseeing"
 categories:
   - EuroVelo10

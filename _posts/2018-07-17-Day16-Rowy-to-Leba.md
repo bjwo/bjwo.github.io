@@ -1,5 +1,5 @@
 ---
-title: "Day 16: Rowy to Łeba"
+title: "EV10: Day 16: Rowy to Łeba"
 excerpt: "53 km"
 categories:
   - EuroVelo10

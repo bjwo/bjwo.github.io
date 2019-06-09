@@ -1,5 +1,5 @@
 ---
-title: "Day 24: Turku to Kalasuntti (Teijo National Park)"
+title: "EV10: Day 24: Turku to Kalasuntti (Teijo National Park)"
 excerpt: "75 km"
 categories:
   - EuroVelo10

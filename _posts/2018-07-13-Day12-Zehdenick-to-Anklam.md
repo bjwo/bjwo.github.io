@@ -1,5 +1,5 @@
 ---
-title: "Day 12: Zehdenick to Anklam"
+title: "EV10: Day 12: Zehdenick to Anklam"
 excerpt: "116 km"
 categories:
   - EuroVelo10

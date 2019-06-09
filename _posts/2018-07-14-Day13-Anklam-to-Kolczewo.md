@@ -1,5 +1,5 @@
 ---
-title: "Day 13: Anklam to Kolczewo"
+title: "EV10: Day 13: Anklam to Kolczewo"
 excerpt: "92 km"
 categories:
   - EuroVelo10

@@ -1,5 +1,5 @@
 ---
-title: "Day 6: Zabenstedt to Wittenberg"
+title: "EV10: Day 6: Zabenstedt to Wittenberg"
 excerpt: "111 km"
 categories:
   - EuroVelo10

@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bjoern's Blog"
+title                    : "Bjoern's Cycling Adventures"
 title_separator          : "-"
-name                     : "Bjoern Woppmann"
-description              : "My personal blog."
+name                     : "Bjoern"
+description              : "My blog around my cycling adventures along the EuroVelo long-distance cycling trails."
 url                      : "https://bjwo.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : bjwo/bjwo.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Björn"
   avatar           : "/assets/images/bjoern.jpg"
-  bio              : "This is a blog mostly about my cycling adventures."
+  bio              : "A blog about my EuroVelo cycling adventures - 'cuz who wants to read about my everyday life."
   location         : "Mannheim, Germany"
   email            : webmaster@bjwo.de
   links:
@@ -207,7 +207,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

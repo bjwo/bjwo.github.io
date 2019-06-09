@@ -1,11 +1,12 @@
 ---
-title: "Day 23: Ferry from Stockholm to Turku"
+title: "EV10: Day 23: Ferry from Stockholm to Turku"
 excerpt: "Ferry day"
 categories:
   - EuroVelo10
 tags:
   - Sweden
   - Finland
+  - Ferry
 ---
 {% include ig_post url="https://www.instagram.com/p/BlpbZSqlK3X/" %}
 _#day23 Yesterday was again a boat day, which means, I made it to Finland! 🤗🇫🇮✌️ Fortunately, I met Lasse - a Finish guy living in Stockholm - on the boat, and we had a long great chat over some beers. This shortened the otherwise lengthy trip and made it really fun. <br>

@@ -1,5 +1,5 @@
 ---
-title: "Day 15: Gąski to Rowy"
+title: "EV10: Day 15: Gąski to Rowy"
 excerpt: "121 km"
 categories:
   - EuroVelo10

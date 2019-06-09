@@ -1,5 +1,5 @@
 ---
-title: "Day 42: Nämpnäs to Sideby"
+title: "EV10: Day 42: Nämpnäs to Sideby"
 excerpt: "100 km"
 categories:
   - EuroVelo10

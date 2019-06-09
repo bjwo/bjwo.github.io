@@ -1,10 +1,11 @@
 ---
-title: "Day 21: Ferry from Gdańsk to Nynäshamn"
+title: "EV10: Day 21: Ferry from Gdańsk to Nynäshamn"
 excerpt: "Ferry day"
 categories:
   - EuroVelo10
 tags:
   - Poland
+  - Ferry
 ---
 {% include ig_post url="https://www.instagram.com/p/BlihnBdFVKs/" %}
 _I'm on a boat to Sweden! Goodbye Gdansk, it was lovely. 🇵🇱🚢🇸🇪_

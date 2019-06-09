@@ -1,5 +1,5 @@
 ---
-title: "Day 41: Vaasa - Nämpnäs"
+title: "EV10: Day 41: Vaasa - Nämpnäs"
 excerpt: "On the road again: 98 km"
 categories:
   - EuroVelo10

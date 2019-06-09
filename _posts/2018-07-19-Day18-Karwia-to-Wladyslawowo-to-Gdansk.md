@@ -1,5 +1,5 @@
 ---
-title: "Day 18: Karwia to Władysławowo to Gdańsk"
+title: "EV10: Day 18: Karwia to Władysławowo to Gdańsk"
 excerpt: "16 km"
 categories:
   - EuroVelo10

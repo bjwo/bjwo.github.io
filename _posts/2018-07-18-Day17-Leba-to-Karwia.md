@@ -1,5 +1,5 @@
 ---
-title: "Day 17: Łeba to Karwia"
+title: "EV10: Day 17: Łeba to Karwia"
 excerpt: "63 km"
 categories:
   - EuroVelo10

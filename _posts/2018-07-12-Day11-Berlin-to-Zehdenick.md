@@ -1,5 +1,5 @@
 ---
-title: "Day 11: Berlin to Zehdenick"
+title: "EV10: Day 11: Berlin to Zehdenick"
 excerpt: "89 km"
 categories:
   - EuroVelo10

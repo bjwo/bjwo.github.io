@@ -1,5 +1,5 @@
 ---
-title: "Day 22: Nynäshamn to Stockholm"
+title: "EV10: Day 22: Nynäshamn to Stockholm"
 excerpt: "79 km"
 categories:
   - EuroVelo10

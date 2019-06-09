@@ -1,5 +1,5 @@
 ---
-title: "Day 1: Mannheim to Glauberg"
+title: "EV10: Day 1: Mannheim to Glauberg"
 excerpt: "132 km"
 categories:
   - EuroVelo10

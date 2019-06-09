@@ -1,5 +1,5 @@
 ---
-title: "Day 5: Erfurt to Zabenstedt"
+title: "EV10: Day 5: Erfurt to Zabenstedt"
 excerpt: "107 km"
 categories:
   - EuroVelo10

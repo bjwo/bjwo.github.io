@@ -1,5 +1,5 @@
 ---
-title: "Day 4: Eisenach to Erfurt"
+title: "EV10: Day 4: Eisenach to Erfurt"
 excerpt: "93 km"
 categories:
   - EuroVelo10
