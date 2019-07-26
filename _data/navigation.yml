@@ -4,7 +4,9 @@
 #    url: /eurovelo10/
 
 left:
-  - title: "Who am I?"
-    url: /whoami/
+#  - title: "Who am I?"
+#    url: /whoami/
   - title: "EuroVelo 10"
     url: /eurovelo10/
+  - title: "EuroVelo 7"
+    url: /eurovelo7/
