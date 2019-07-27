@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.35
 permalink: /eurovelo7/
 author_profile: true
-layout: single
+layout: category
 # classes: wide
 categories:
   - EuroVelo7
@@ -20,6 +20,7 @@ tags:
 toc: true
 sidebar:
   nav: "left"
+taxonomy: EuroVelo7
 ---
 
 # Route
@@ -61,26 +62,14 @@ Routing is not that trivial - the EuroVelo 7 website doesn't publish the officia
 
 # Finding places to sleep
 
-## Germany
-
-I Germany "wild camping" is officially not allowed. Most land in Germany is owned by somebody - so you'd need to ask the landowner for permission to camp. In state owned forests the law states that it is forbidden to sleep in tents ("Zelten verboten"), so there seems to be some legally grey area when you rest/sleep without a "tent". A hammock, biwak or tarp should be fine.
-
-This is why in Germany I resorted to looking for shelters on OpenStreetMap and slept in a hammock there. As long as you behave, don't make a fire and pick up after yourself, you should be fine.
-
-## Poland
-
-Wild Camping seems to be forbidden here as well. I didn't want to risk it and slept on camping sites. However in the summer months, it seems like ALL the poles are headed to the seaside, so the beach seems like a walruss colony in the beach towns. The camp sites are also rather big and crowded. What seems to be better is to look for "agritouristica" camp sites.
-
 ## Sweden
 
 Camping in the wild is allowed in all the nordic countries ("[allmansrätten](https://en.wikipedia.org/wiki/Freedom_to_roam)"). However, if you are really in the woods, it's not so easy to find an even place where you'd pitch up your tent. However, there is a great Facebook group who are putting all the public shelters (Vindskydd) which are free to use on a Google Map: [Vindskydd i Svergie](https://maps.gonehiking.se/) Oftentimes including some images and additional info. So many places had a loo, firefood, and a fireplace. However, due to the extremly hot summer, we were only allowed to light a fire on our last night in a shelter. All other days before, there was stricktly prohibited to light a fire.
 
 We found it great to put up the inner tent net inside the shelters to protect from the mosquitos.
 
-## Finland
-
-Same goes for Finland. They also have shelters (fi: _laavu_ / se: _vindskydd_). On this page you can download the gps coorinates for shelters per municipality: [All shelters in Finland GPX](http://www.laavu.org/lataa.php?paikkakunta=kaikki). I also put these on a [custom google map](https://drive.google.com/open?id=1br0w7K6ubw3060d-aUWBsILBNxsFnrIh).
-
 ## Denmark
 
 Even though I didn't tour through Danmark yet, I also found a nice list of shelters here: [naturstyrelsen.dk](https://naturstyrelsen.dk/naturoplevelser/overnatning/shelters/)
+
+# All blog entries from this trip

@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.35
 permalink: /eurovelo10/
 author_profile: true
-layout: single
+layout: category
 # classes: wide
 categories:
   - EuroVelo10
@@ -20,6 +20,7 @@ tags:
 toc: true
 sidebar:
   nav: "left"
+taxonomy: EuroVelo10
 ---
 
 # Route
@@ -118,3 +119,5 @@ Same goes for Finland. They also have shelters (fi: _laavu_ / se: _vindskydd_). 
 ## Denmark
 
 Even though I didn't tour through Danmark yet, I also found a nice list of shelters here: [naturstyrelsen.dk](https://naturstyrelsen.dk/naturoplevelser/overnatning/shelters/)
+
+# All blog entries from this trip
