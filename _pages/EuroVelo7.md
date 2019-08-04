@@ -1,6 +1,6 @@
 ---
 title: "EuroVelo 7: Cycle from Umeå to Germany"
-excerpt: "This August, my girlfriend and I have a month to cycle along the EuroVelo 7 towards Germany. We want to see Göteborg, and then cycle through Denmark to northern Germany."
+excerpt: "This August, my girlfriend and I have a month to cycle along the EuroVelo 7 towards Germany. We will start with a vacation in Vaasa, Finnland to see my grandma. From there we will take the ferry to Umeå where the EuroVelo 7 crosses. We want to make it Göteborg, and from there we will most likely take the ferry to Denmark. Depending on how much time we've got left, we'll then cake l cycle through Denmark to northern Germany and eventually take a train back home."
 header:
   overlay_image: /assets/images/EuroVelo10/finland_lake.jpg
   overlay_filter: 0.35
@@ -32,6 +32,7 @@ Boundary conditions:
 - my girlfriend's a teacher who had the month of August off from school
 - I love cycling
 - I had saved up some extra time at work
+- we liked the possibility to camp in the wild like we did in Sweden last year
 
 # Equipment on this tour
 
