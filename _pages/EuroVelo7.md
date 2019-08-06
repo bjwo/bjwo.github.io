@@ -55,6 +55,10 @@ So here are some key componets:
 - **Saddle Post Suspension:** Suntour SP12 NCX
 - **Handlebar Front Bag:** [Red Cycling Products Front Loader III schwarz](https://www.amazon.de/Red-Cycling-Products-Lenkertasche-Loader/dp/B07BH2FDPV)
 - **Phone Mount:** [Similar to this](https://www.aliexpress.com/item/Bike-Phone-Holder-Mount-Bracket-Stand-Practical-Aluminium-Alloy-Phone-Mountain-Bike-Mobile-Phone-Holder-Bicycle/32915573992.html) I have tried out many phone mounts for my cycle - but this one has lasted forever and never dropped my phone. Highly recommended.
+- repairs:
+  - tear aid type A
+  - fiber fix spoke repair
+  - 
 
 # Routing
 
