@@ -1,5 +1,5 @@
 ---
-title: "EV7: Test: Day 0: Vaasa to Umeå"
+title: "EV7: Day 0: Vaasa to Umeå"
 excerpt: "ferry day"
 categories:
   - EuroVelo7
