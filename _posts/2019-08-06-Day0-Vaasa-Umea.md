@@ -15,7 +15,7 @@ On my bike trip last year I met another bike traveller on the way out from Berli
 
 ## Photos
 
-{% include photos day="0" no="3" %}
+{% include photos day="0" no="6" %}
 
 ## Route
 
