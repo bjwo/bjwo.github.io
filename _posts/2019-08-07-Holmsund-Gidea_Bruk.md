@@ -23,8 +23,8 @@ All in all a pretty great first day.
 
 ## Photos
 
-{% include photos day="1" no="6" %}
+{% include photos day="1" no="12" %}
 
 ## Route
 
-{% include komoot id="84334774" %}
+{% include komoot id="84517084" %}
