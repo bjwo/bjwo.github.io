@@ -1,6 +1,6 @@
 ---
 title: "EV7: Day 2: Gideå Bruk to Bjästa"
-excerpt: "92 km"
+excerpt: "92 km - 1060 hm"
 categories:
   - EuroVelo7
 tags:
