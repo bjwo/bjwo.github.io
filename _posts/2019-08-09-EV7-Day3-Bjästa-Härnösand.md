@@ -19,7 +19,7 @@ Great place!
 
 ## Photos
 
-{% include photos day="3" no="7" %}
+{% include photos day="3" no="11" %}
 
 ## Route
 
