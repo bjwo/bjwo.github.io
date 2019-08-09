@@ -1,6 +1,6 @@
 ---
 title: "EV7: Day 2: Gideå Bruk to Bjästa"
-excerpt: "102 km"
+excerpt: "92 km"
 categories:
   - EuroVelo7
 tags:
@@ -10,7 +10,7 @@ tags:
 We woke up only to find that it was raining rather heavily. We first tried to wait it out for a little while, but the weather prognosis did not look promising.
 However, after the first hour on the road the rain stopped and there were only a few short showers after that.
 
-Additionally, we have now officially reached the [Höga Kusten]() - the high coast. For us, this means a constant uphill-downhill rollercoaster-like route...  However, the landscape is just beautiful. 
+Additionally, we have now officially reached the [Höga Kusten](https://en.wikipedia.org/wiki/High_Coast) - the high coast. For us, this means a constant uphill-downhill rollercoaster-like route...  However, the landscape is just beautiful. 
 
 We were already quite exhausted and hungry when we reached Örnsköldsvik for lunch - in the local ice hockey stadium where we could observe the training while eating. A big lunch - including a salad buffet, salmon fillets, drinks (coffee, water, milk, light beer) only costs ~9€. This is why we typically make it a priority to stop at some decent lunch place.
 
