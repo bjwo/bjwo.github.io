@@ -1,5 +1,5 @@
 ---
-title: "EV7: Day 3: Bjästa to Harnösand"
+title: "EV7: Day 3: Bjästa to Härnösand"
 excerpt: "105 km - 1060 hm"
 categories:
   - EuroVelo7
