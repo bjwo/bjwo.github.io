@@ -1,5 +1,5 @@
 ---
-title: "EV7: Day 3: Härnösand to Sundsvall"
+title: "EV7: Day 4: Härnösand to Sundsvall"
 excerpt: "80 km - 780 hm"
 categories:
   - EuroVelo7
