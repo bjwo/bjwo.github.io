@@ -13,7 +13,7 @@ We found a nice shelter at _Lasse's and Inga's cave_ - a couple who built a hous
 
 ## Photos
 
-{% include photos day="13" no="11" %}
+{% include photos day="13" no="12" %}
 
 ## Route
 

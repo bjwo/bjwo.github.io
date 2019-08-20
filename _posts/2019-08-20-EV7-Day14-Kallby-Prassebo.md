@@ -7,7 +7,7 @@ tags:
   - Sweden
   - Vindskydd
 ---
-Very strong headwind again today. And even more rainy clouds in the radar which were coming directly at us. We had to reroute due to the heavy train cells, but managed to stay dry all day. Quite a big accomplishment, we believe.
+Very strong headwind again today. And even more rainy clouds in the radar which were coming directly at us. We had to reroute due to the heavy rain cells, but managed to stay dry all day. Quite a big accomplishment, we believe.
 
 Found a shelter directly on a public swimming beach.
 
