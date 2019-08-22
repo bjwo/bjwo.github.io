@@ -7,7 +7,7 @@ tags:
   - Sweden
   - Hotel
 ---
-We use the day for more Sightseeing in Gothenburg, laundry and making decision on how to proceed with our cycling trip:
+We used the day for more sightseeing in Gothenburg, laundry and making a decision on how to proceed with our cycling trip:
 
 We originally had planned to take the ferry from Gothenburg over to Denmark, and then to cycle along the [north sea cycleway in Denmark](http://northseacycleroute.dk/home/) towards Germany.
 
