@@ -8,7 +8,7 @@ tags:
   - Shelter
   - Kattegattleden
 ---
-The beautiful weather continues. We're now cycling through a holiday region where many swedes have some little cabins on the seaside. And after a relatively long dinner everybody was outside and enjoying a late summer.
+The beautiful weather continues. We're now cycling through a holiday region where many swedes have some little cabins on the seaside. And after a relatively cold and rainy dinner everybody was now outside and enjoying a late hot summer.
 
 We also went to the beach for a short while, ate great ice cream and I took a dive into the sea.
 

@@ -12,7 +12,7 @@ Today we left Göteborg and started riding the Kattegattleden. The weather start
 
 The Kattegattleden is one of the best-developed cycle routes we've ridden. The signage is really good, so you don't need to look at the maps on your phone constantly. And the landscape is again really scenic.
 
-We rode until the little town of Bua, bought some dinner at a Supermarket and had a shower at the local guest harbor. The shelter we had read about on the web (but wasn't on any map online) was on a running track on a hill above the village, pretty close to a residential area.
+We rode until we reached the little town of Bua, bought some dinner at a Supermarket and had a shower at the local guest harbor. The shelter we had read about on the web (but wasn't on any map online) was next to a running track on a hill above the village, pretty close to a residential area.
 
 ## Photos
 
