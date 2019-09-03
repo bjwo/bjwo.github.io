@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bjoern's Cycling Adventures"
+title                    : "Bjoern's EuroVelo Cycling Adventures"
 title_separator          : "-"
 name                     : "Bjoern"
 description              : "My blog around my cycling adventures along the EuroVelo long-distance cycling trails."

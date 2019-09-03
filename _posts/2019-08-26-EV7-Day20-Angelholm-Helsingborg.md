@@ -8,9 +8,9 @@ tags:
   - Shelter
   - Kattegattleden
 ---
-Today we reserved some time to do sightseeing in Helsingborg, so we didn't let through to Malmö Just yet.
+Today we reserved some time to do sightseeing in Helsingborg, so we didn't push through to Malmö just yet.
 
-This even gave us some time to spend some time at a beautiful Helsingborg city beach with a nice view on Denmark and the ferries shuttling between Helsingborg and Helsingør.
+This even gave us some time to spend some time at a Helsingborg city beach with a nice view on Denmark and the ferries shuttling between Helsingborg and Helsingør.
 
 Unfortunately, this already brought us to the end of the Kattegattleden. We really enjoyed it and can highly recommend it.
 
