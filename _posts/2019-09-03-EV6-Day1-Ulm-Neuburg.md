@@ -14,7 +14,7 @@ The Donauradweg is really well developed, and there are plenty of cycle tourists
 
 ## Photos
 
-{% include photos day="1" no="8" %}
+{% include photos day="1" no="7" %}
 
 ## Route
 
