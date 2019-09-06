@@ -16,7 +16,7 @@ Tonight I am sleeping on the camping site if the Canoe Club in Regensburg.
 
 ## Photos
 
-{% include photos day="2" no="8" %}
+{% include photos day="2" no="10" %}
 
 ## Route
 
