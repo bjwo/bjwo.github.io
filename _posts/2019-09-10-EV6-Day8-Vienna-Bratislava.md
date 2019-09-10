@@ -10,7 +10,7 @@ tags:
 ---
 Today was a great day. (Apart from the tiredness due to the sleepless night in the hostel.) The sun was out, temperatures were up and the route was fun to ride.
 
-There was a little headwind - so when two elderly locals passed me on their e-bikes I decided to leech onto them to stay in their wind shade. And I just told them that I would do so - do they started a lengthy conversation with me.
+There was a little headwind - so when two elderly locals passed me on their e-bikes I decided to leech onto them to stay in the slipstream. I just told them that I intended do so - which started a lengthy conversation. 😁
 
 However, they gave me some really valuable information. They are currently building a newer Eurovelo 6 route on top of a flood protection dam. However, there were numerous pretty intimidating signs and fences prohibiting cyclists from taking the new road.
 The older guy told me that he had cycled the route to Bratislava a month before and that it was completed, however not opened yet as some politicians want to do a opening ceremony first.

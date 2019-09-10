@@ -8,13 +8,13 @@ tags:
   - Donauradweg
   - Camping
 ---
-The weather predictions started that there will be three pretty bad, rainy days ahead. My mood want great because of that. But it ruined it better than expected.
+The weather predictions stated that there would be three pretty bad, rainy days ahead. My mood wasn't great because of that. But it went it better than expected.
 
-I went to the canoe club in Linz, and I could sleep there on the floor where the boats were sure and this I could avoid getting my tent wet.
+I went to the canoe club in Linz and the site was big enough that I could sleep in the boat storage and I could avoid getting my tent wet.
 
-I met a nice Belgian couple on their way to Asia, and another Gehabt guy on his way back home.
+I met a nice Belgian couple on their way to Asia, and another German guy on his way back home to Heilbronn.
 
-In the evening we went to see the final rehersal for the "Linzer Klangwolke 2019".
+In the evening we went to see the final rehersal for the "Linzer Klangwolke 2019". This made me curious enough to consider staying another day and sitting out at least one of the rainy days.
 
 ## Photos
 

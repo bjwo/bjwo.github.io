@@ -10,7 +10,7 @@ tags:
 ---
 Fortunately, the weather didn't turn out as gloomy as predicted. 
 
-Cycling out from Linz, a girl on a road bike passed me slowly. I took this as a welcome opportunity to stay in her wind shadow for a while. 😄
+Cycling out from Linz, a girl on a road bike passed me slowly. I took this as a welcome opportunity to stay in her slipstream for a while. 😄
 
 In the mean time I even saw some sun and met another cyclist on a ferry. We stayed together and chatted for 2h. This happens with often, it's quite different to meet so many people here, compared to the swedish countryside.
 
