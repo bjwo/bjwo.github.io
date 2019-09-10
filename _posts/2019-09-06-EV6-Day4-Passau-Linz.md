@@ -14,7 +14,7 @@ I went to the canoe club in Linz, and I could sleep there on the floor where the
 
 I met a nice Belgian couple on their way to Asia, and another Gehabt guy on his way back home.
 
-In the evening we went to see the final referral for the "Linzer Klangwolke 2019".
+In the evening we went to see the final rehersal for the "Linzer Klangwolke 2019".
 
 ## Photos
 
