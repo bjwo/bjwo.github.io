@@ -4,7 +4,7 @@ excerpt: "sick day - thermal bath"
 categories:
   - EuroVelo6
 tags:
-  - Germany
+  - Slovakia
   - Donauradweg
   - Camping
 ---

@@ -4,7 +4,7 @@ excerpt: "100 km - 640 hm"
 categories:
   - EuroVelo6
 tags:
-  - Germany
+  - Austria
   - Donauradweg
   - Camping
 ---

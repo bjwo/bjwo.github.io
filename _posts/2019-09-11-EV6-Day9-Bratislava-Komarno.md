@@ -4,7 +4,7 @@ excerpt: "108 km"
 categories:
   - EuroVelo6
 tags:
-  - Germany
+  - Slovakia
   - Donauradweg
   - Camping
 ---

@@ -5,6 +5,7 @@ categories:
   - EuroVelo6
 tags:
   - Germany
+  - Austria
   - Donauradweg
   - Camping
 ---

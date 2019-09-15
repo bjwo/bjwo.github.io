@@ -4,7 +4,8 @@ excerpt: "75 km - 500 hm"
 categories:
   - EuroVelo6
 tags:
-  - Germany
+  - Slovakia
+  - Austria
   - Donauradweg
   - Hostel
 ---
