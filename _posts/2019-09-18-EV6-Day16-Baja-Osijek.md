@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 15: Dunaföldvar to Baja"
+title: "EV6: Day 16: Dunaföldvar to Baja"
 excerpt: "106 km"
 categories:
   - EuroVelo6
