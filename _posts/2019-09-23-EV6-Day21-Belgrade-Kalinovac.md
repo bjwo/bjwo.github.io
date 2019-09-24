@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 21: Belgrade 🇷🇸 to Kalinovac 🇸🇰"
+title: "EV6: Day 21: Belgrade 🇷🇸 to Kalinovac 🇷🇸"
 excerpt: "112 km"
 categories:
   - EuroVelo6

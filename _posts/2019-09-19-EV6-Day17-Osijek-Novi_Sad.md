@@ -14,7 +14,7 @@ tags:
 
 ## Photos
 
-{% include photos day="17" no="13" %}
+{% include photos day="17" no="10" %}
 
 ## Route
 {% include komoot id="94858878 " %}
