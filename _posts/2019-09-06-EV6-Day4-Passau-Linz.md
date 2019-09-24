@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 4: Passau to Linz"
+title: "EV6: Day 4: Passau 🇩🇪 to Linz 🇦🇹"
 excerpt: "99 km - 790 hm"
 categories:
   - EuroVelo6

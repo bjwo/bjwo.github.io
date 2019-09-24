@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 1: Ulm to Neuburg"
+title: "EV6: Day 1: Ulm 🇩🇪 to Neuburg 🇩🇪"
 excerpt: "129 km - 720 hm"
 categories:
   - EuroVelo6

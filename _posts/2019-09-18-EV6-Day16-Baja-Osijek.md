@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 16: Baja (Hungary) to Osijek (Croatia)"
+title: "EV6: Day 16: Baja 🇭🇺 to Osijek 🇭🇷"
 excerpt: "106 km"
 categories:
   - EuroVelo6

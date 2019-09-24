@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 3: Regensburg to Passau"
+title: "EV6: Day 3: Regensburg 🇩🇪 to Passau 🇩🇪"
 excerpt: "154 km - 890 hm"
 categories:
   - EuroVelo6

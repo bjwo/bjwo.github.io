@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 14: Budapest to Dunaföldvar"
+title: "EV6: Day 14: Budapest 🇭🇺 to Dunaföldvar 🇭🇺"
 excerpt: "109 km"
 categories:
   - EuroVelo6

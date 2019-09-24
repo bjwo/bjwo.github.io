@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 10: Komárno"
+title: "EV6: Day 10: Komárno 🇸🇰"
 excerpt: "sick day - thermal bath"
 categories:
   - EuroVelo6

@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 2: Neuburg to Regensburg"
+title: "EV6: Day 2: Neuburg 🇩🇪 to Regensburg 🇩🇪"
 excerpt: "117 km - 820 hm"
 categories:
   - EuroVelo6

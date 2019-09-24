@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 7: Pöchlarn to Vienna"
+title: "EV6: Day 7: Pöchlarn 🇦🇹 to Vienna 🇦🇹"
 excerpt: "100 km - 650 hm"
 categories:
   - EuroVelo6

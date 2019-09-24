@@ -1,10 +1,11 @@
 ---
-title: "EV6: Day 11: Komárno to Budapest"
+title: "EV6: Day 11: Komárno 🇸🇰 to Budapest 🇭🇺"
 excerpt: "130 km"
 categories:
   - EuroVelo6
 tags:
   - Hungary
+  - Slovakia
   - Donauradweg
   - Hostel
 ---

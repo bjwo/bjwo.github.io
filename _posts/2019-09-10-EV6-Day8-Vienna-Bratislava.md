@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 8: Vienna to Bratislava"
+title: "EV6: Day 8: Vienna 🇦🇹 to Bratislava 🇸🇰"
 excerpt: "75 km - 500 hm"
 categories:
   - EuroVelo6

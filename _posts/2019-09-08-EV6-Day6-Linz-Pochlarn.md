@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 6: Linz to Pöchlarn"
+title: "EV6: Day 6: Linz 🇦🇹 to Pöchlarn 🇦🇹"
 excerpt: "100 km - 640 hm"
 categories:
   - EuroVelo6

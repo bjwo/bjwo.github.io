@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 9: Bratislava to Komárno"
+title: "EV6: Day 9: Bratislava 🇸🇰 to Komárno 🇸🇰"
 excerpt: "108 km"
 categories:
   - EuroVelo6
