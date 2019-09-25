@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 22: Kalinovac 🇸🇰 to Donji Milanovac 🇸🇰"
+title: "EV6: Day 22: Kalinovac 🇷🇸 to Donji Milanovac 🇷🇸"
 excerpt: "101 km"
 categories:
   - EuroVelo6
