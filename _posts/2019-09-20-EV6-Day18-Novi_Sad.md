@@ -13,4 +13,4 @@ tags:
 
 ## Photos
 
-{% include photos day="17" no="6" %}
+{% include photos day="18" no="6" %}

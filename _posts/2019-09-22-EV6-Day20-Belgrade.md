@@ -5,7 +5,6 @@ categories:
   - EuroVelo6
 tags:
   - Serbia
-  - Croatia
   - Donauradweg
   - Hostel
 ---
@@ -14,4 +13,4 @@ tags:
 
 ## Photos
 
-{% include photos day="20" no="13" %}
+{% include photos day="20" no="5" %}

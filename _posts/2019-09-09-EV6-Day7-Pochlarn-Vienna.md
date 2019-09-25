@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 7: Pöchlarn 🇦🇹 to Vienna 🇦🇹"
+title: "EV6: Day 7: Pöchlarn 🇦🇹 to Vienna 🇦🇹 "
 excerpt: "100 km - 650 hm"
 categories:
   - EuroVelo6
@@ -24,4 +24,4 @@ I slept in a fix booked five bed room, however didn't sleep well: With me, there
 
 ## Route
 
-{% include komoot id="92471235" %}
+{% include komoot id="92669329" %}
