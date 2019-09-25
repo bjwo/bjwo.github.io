@@ -10,10 +10,9 @@ tags:
 ---
 
 
-
 ## Photos
 
-{% include photos day="22" no="13" %}
+{% include photos day="22" no="18" %}
 
 ## Route
 {% include komoot id="95938188" %}
