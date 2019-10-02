@@ -16,7 +16,7 @@ There I was researching to find a place to stay for the so I would know how far 
 
 I met these really nice older guys at the fortress in Vidin. They were so excited to see me and wanted to know everything about my bike and my trip.
 
-But generally, I had the impression that the people were not do friendly in Bulgaria. Most people didn't smiled or wave back as I cycled by.
+But generally, I had the impression that the people were not do friendly in Bulgaria. Most people didn't smile or wave back as I cycled by.
 
 In the evening I went to the cinema to see the new Brad Pitt movie. It was ok. 😉
 
