@@ -1,8 +1,8 @@
 ---
 title: "EuroVelo 7: Cycle from Umeå to Germany"
-excerpt: "This August, my girlfriend and I have a month to cycle along the EuroVelo 7 towards Germany. We will start with a vacation in Vaasa, Finnland to see my grandma. From there we will take the ferry to Umeå where the EuroVelo 7 crosses. We want to make it Göteborg, and from there we will most likely take the ferry to Denmark. Depending on how much time we've got left, we'll then cake l cycle through Denmark to northern Germany and eventually take a train back home."
+excerpt: "In August 2019, my girlfriend Dani and I have a month to cycle along the EuroVelo 7 towards Germany. We started with a week's vacation in Vaasa, Finnland to see my grandma. From there we took the ferry to Umeå in Sweden and followed (mostly) the EuroVelo 7 and the Kattegatleden to Malmö and then took the bus back home to Mannheim from Copenhagen."
 header:
-  overlay_image: /assets/images/EuroVelo10/finland_lake.jpg
+  overlay_image: /assets/images/EuroVelo7/ev7-banner.jpg
   overlay_filter: 0.35
 permalink: /eurovelo7/
 author_profile: true
@@ -24,6 +24,8 @@ taxonomy: EuroVelo7
 ---
 
 # Route
+
+![EuroVelo 7 Route - August 2019](/assets/images/EuroVelo7/ev7-route.png)
 
 # Motivation for this tour
 
