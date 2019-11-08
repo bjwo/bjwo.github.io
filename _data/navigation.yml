@@ -1,14 +1,18 @@
 # main links
-# main:
-#  - title: "EuroVelo 10"
-#    url: /eurovelo10/
+ main:
+  - title: "EuroVelo 6"
+    url: /eurovelo6/
+  - title: "EuroVelo 7"
+    url: /eurovelo7/
+  - title: "EuroVelo 10"
+    url: /eurovelo10/
 
 left:
 #  - title: "Who am I?"
 #    url: /whoami/ 
- - title: "EuroVelo 6"
+ - title: "EuroVelo 6 - along the Danube to the Black Sea"
    url: /eurovelo6/
- - title: "EuroVelo 7"
+ - title: "EuroVelo 7 - north to south Sweden"
    url: /eurovelo7/
- - title: "EuroVelo 10"
+ - title: "EuroVelo 10 - 'round the Baltic Sea"
    url: /eurovelo10/
