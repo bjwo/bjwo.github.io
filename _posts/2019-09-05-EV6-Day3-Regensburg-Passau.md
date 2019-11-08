@@ -10,9 +10,9 @@ tags:
 ---
 Today's weather turned out better than predicted. There was some drizzling rain, but plenty of wind from behind, yay!
 
-I made it to Passau. I had the best Cordon Bleu of my life when I was here 2 years ago - so I saved up all my hunger für the evening. I don't think you can imagine my disappointment when I saw that the place was closed due to vacation. 😔 Fyi, the place is called _kreuzweis_.
+I made it to Passau. I had the best Cordon Bleu of my life when I was in Passau two years before - so I saved up all my hunger für the evening, looking forward to getting that great Cordon Bleu. I don't think you can imagine my disappointment when I saw that the place was closed due to vacation. 😔 Fyi, the place is called _kreuzweis_.
 
-Again I am staying at the camping of the local canoe club. When I got there, there was some heavy rain - which hasn't stopped yet. Fortunately, there is a communal dining area, which has a roof. So I didn't have to put up my tent in the rain, but just found a spot in the corner of the commons area. 
+Again I am staying at the camping of the local canoe club. When I got there, there was some heavy rain - which hasn't stopped yet. Fortunately, there is a communal dining area, which has a roof. So I didn't have to put up my tent in the rain, but just found a spot in the corner of the commons area.
 
 ## Photos
 

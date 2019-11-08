@@ -14,9 +14,9 @@ I had booked myself a bed in a hostel in Vienna already. Or at least I thought s
 
 However, fortunately the Vienna hostel still had a bed available and were able to cancel the other one in Venice.
 
-I mostly spent the evening doing a complete laundry and drying cycle with all my stuff. I felt too tired (and I guess a little too old) to participate in the other hostel activities / drinking games. 
+I mostly spent the evening doing a complete laundry and drying cycle with all my stuff. I felt too tired (and I guess a little too old) to participate in the other hostel activities / drinking games.
 
-I slept in a fix booked five bed room, however didn't sleep well: With me, there was one mentally unstable person in the room, who stood up several times in the night started speaking to himself (even singing), pretending his umbrella was a sword, and kept turning the lights on. I had earplugs in and slept with a sleeping mask, but I still wasn't spared from this insanity.
+I slept in a fully booked five bed room, however didn't sleep well: With me, there was one mentally unstable person in the room, who stood up several times in the night started speaking to himself (even singing), pretending his umbrella was a sword, and kept turning the lights on. I had earplugs in and slept with a sleeping mask, but I still wasn't spared from this insanity.
 
 ## Photos
 
