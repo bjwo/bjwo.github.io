@@ -21,4 +21,5 @@ So I raced through the villages. I like the countryside in Romania. Lots of hors
 {% include photos day="25" no="13" %}
 
 ## Route
+
 {% include komoot id="96346247" %}

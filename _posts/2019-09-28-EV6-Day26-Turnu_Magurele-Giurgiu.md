@@ -27,10 +27,10 @@ Anyway, he told me to park my bike on some shed behind the building, which could
 
 The room itself, was very nice and clean, however. 🤷‍♂️
 
-
 ## Photos
 
 {% include photos day="26" no="9" %}
 
 ## Route
+
 {% include komoot id="96555451" %}
