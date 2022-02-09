@@ -6,10 +6,15 @@ body {
 
 #timer{
   margin: auto;
-  margin-left: auto;
+  margin-left: 33%;
   width: 40%;
   position: absolute;
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
 }
