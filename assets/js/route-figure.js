@@ -41,7 +41,7 @@
     return { distance: distance, ascent: ascent };
   }
 
-  function drawMap(container, points, name) {
+  function drawMap(container, points, name, trackId) {
     if (typeof L === "undefined") return;
 
     var minZoom = ZOOMS[0];
@@ -73,6 +73,43 @@
 
     var latlngs = points.map(function (p) { return [p[0], p[1]]; });
     var line = L.polyline(latlngs, { color: "#1f6fb2", weight: 4, opacity: 0.85 }).addTo(map);
+
+    // Reference layer: every other day in grey, so the overview shows where
+    // this day sits in the wider trip. Added after the current route so it
+    // starts on top, then sent behind it; hover brings a line forward.
+    var overview = window.TRACK_OVERVIEW || [];
+    overview.forEach(function (entry) {
+      if (!entry.points || !entry.points.length) return;
+      if (entry.id === trackId) return;
+
+      var grey = L.polyline(
+        entry.points.map(function (p) { return [p[0], p[1]]; }),
+        { color: "#8a8a8a", weight: 2, opacity: 0.55, interactive: true }
+      ).addTo(map);
+
+      var restyle = function (active) {
+        grey.setStyle(
+          active
+            ? { color: "#4a4a4a", weight: 4, opacity: 0.95 }
+            : { color: "#8a8a8a", weight: 2, opacity: 0.55 }
+        );
+        if (active) grey.bringToFront();
+        else line.bringToFront();
+      };
+
+      grey.bindTooltip(entry.name || entry.id, { sticky: true });
+      grey.on("mouseover", function () { restyle(true); });
+      grey.on("mouseout", function () { restyle(false); });
+
+      if (entry.url) {
+        grey.on("click", function () { window.location.href = entry.url; });
+        grey.on("add", function () {
+          if (grey._path) grey._path.style.cursor = "pointer";
+        });
+      }
+    });
+
+    line.bringToFront();
 
     L.circleMarker(latlngs[0], { radius: 6, color: "#1a7f37", fillOpacity: 1 })
       .addTo(map)
@@ -214,7 +251,7 @@
         Math.round(stats.distance / 1000) + " km · " + Math.round(stats.ascent) + " m ascent";
     }
 
-    var map = mapEl ? drawMap(mapEl, track.points, track.name) : null;
+    var map = mapEl ? drawMap(mapEl, track.points, track.name, id) : null;
     var marker = null;
     if (map) {
       marker = L.circleMarker(track.points[0], { radius: 5, color: "#b3261e", fillOpacity: 0.9 });

@@ -22,10 +22,11 @@ bundle exec jekyll serve      # http://127.0.0.1:4000
 
 1. Put the GPX in `assets/gpx/<trip>/`. The filename must contain the Komoot
    tour id, e.g. `2019-08-07_84517084_1_ Holmsund - Gideå Bruk.gpx`.
-2. Regenerate the small track files:
+2. Regenerate the small track files and the shared overview index:
 
    ```sh
    python3 tools/gpx_to_js.py
+   python3 tools/overview_index.py
    ```
 
 3. Reference it in the post, with a blank line above and below the include:
@@ -77,8 +78,21 @@ spread requests across the provider's shards.
 |---|---|
 | `assets/gpx/` | Original GPX per tour (committed, not served to visitors) |
 | `assets/tracks/` | Decimated lat/lon/elevation JSON per tour id |
+| `assets/tracks/overview.js` | All days, thinned, for the grey reference layer |
 | `assets/tiles/` | Self-hosted map tiles, z5 + z10 only |
 | `tools/gpx_to_js.py` | GPX → compact track files |
+| `tools/overview_index.py` | Builds the overview index (titles + post URLs) |
 | `tools/fetch_tiles.py` | Downloads the tiles the routes need |
 | `_includes/route_map.html` | Markup for one day's map |
 | `assets/js/route-figure.js` | Leaflet map + canvas elevation profile |
+
+## The overview layer
+
+Every map also draws all the *other* days in grey, so you can see where the day
+fits in the wider trip. Hovering a grey line highlights it and shows the day's
+title; clicking opens that day's post. The current day is drawn in blue on top
+and left out of the grey layer.
+
+Tracks with no matching post (a GPX without a `route_map.html` reference) are
+still drawn but are not clickable.
+
