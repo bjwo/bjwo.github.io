@@ -6,14 +6,12 @@ categories:
 tags:
   - Finland
 ---
-{% include ig_post url="https://www.instagram.com/p/BmbqvwulbHv/" %}
-_So I am now a day late with yesterday's report. We cycled from Närpes to Sideby through the Swedish-speaking parts of Finland. To me, as a part Finland Swede, it is really interesting to explore my mother's heritage and to hear the minority language spoken everywhere. 😊
+So I am now a day late with yesterday's report. We cycled from Närpes to Sideby through the Swedish-speaking parts of Finland. To me, as a part Finland Swede, it is really interesting to explore my mother's heritage and to hear the minority language spoken everywhere. 😊
 <br><br>
 There are not many dedicated cycle roads outside the towns, so we rode a lot of country roads on the shoulder. However, most of the drivers are very respectful and leave a lot of room when passing.
 <br><br>
 Sometimes you can find old wells at the side of the road. We use them to wash ourselves, much to the interest of the locals.<br>
-For the night we ended up setting up our tent on a bird-watching tower 20 meters above the ground, with a superb view over the sea and treetops, but also a lot of wind and therefore a bit shaky throughout the night 😉. This was definitely one of the most interesting places I've slept so far._
-{: .notice}
+For the night we ended up setting up our tent on a bird-watching tower 20 meters above the ground, with a superb view over the sea and treetops, but also a lot of wind and therefore a bit shaky throughout the night 😉. This was definitely one of the most interesting places I've slept so far.
 
 ### Overnight stay
 

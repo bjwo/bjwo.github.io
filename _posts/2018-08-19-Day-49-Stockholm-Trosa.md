@@ -6,11 +6,9 @@ categories:
 tags:
   - Sweden
 ---
-{% include ig_post url="https://www.instagram.com/p/BmsdYSblb8r/" %}
-_Aaand we're back on the road again. After spending three days in Stockholm we were able to get Dani's bike fixed — this also gave us ample time to do some sightseeing in the beautiful city. 😍
+Aaand we're back on the road again. After spending three days in Stockholm we were able to get Dani's bike fixed — this also gave us ample time to do some sightseeing in the beautiful city. 😍
 <br>
-So we made it out through the suburbs to the south and will now cycle along the coast. The shelter we had picked out beforehand was not accessible by bike, but we found shelter from the rain under the roof of a shooting range._
-{: .notice}
+So we made it out through the suburbs to the south and will now cycle along the coast. The shelter we had picked out beforehand was not accessible by bike, but we found shelter from the rain under the roof of a shooting range.
 
 ### Overnight stay
 

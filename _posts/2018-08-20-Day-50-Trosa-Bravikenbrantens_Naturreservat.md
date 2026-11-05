@@ -6,8 +6,7 @@ categories:
 tags:
   - Sweden
 ---
-{% include ig_post url="https://www.instagram.com/p/BmwQa9dFvo5/" %}
-_Yesterday was a tough day. It started with rain (which we anticipated and dressed for), and it ended with an unanticipated, surprisingly heavy (!!!) rainstorm in which we got completely drenched.
+Yesterday was a tough day. It started with rain (which we anticipated and dressed for), and it ended with an unanticipated, surprisingly heavy (!!!) rainstorm in which we got completely drenched.
 <br><br>
 The phone was so wet that it was tough to navigate. Also, not many pictures from this day.
 <br><br>
@@ -15,8 +14,7 @@ After plentiful hills, at the end of the day we took a wrong turn, and had to ba
 <br><br>
 We ultimately made it to a shelter on a cliff above the sea. We put up our inner tent inside the shelter, which has become our new default way of staying in the wild.
 <br><br>
-Nonetheless, we still managed to do our 95 km with 800 hm. 💪_
-{: .notice}
+Nonetheless, we still managed to do our 95 km with 800 hm. 💪
 
 ### Overnight stay
 

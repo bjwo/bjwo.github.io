@@ -6,8 +6,7 @@ categories:
 tags:
   - Poland
 ---
-{% include ig_post url="https://www.instagram.com/p/BlZzSI3l094/" %}
-_Another short day — only #63km. The going was slow, but I kept my patience. 😉
+Another short day — only #63km. The going was slow, but I kept my patience. 😉
 <br><br>
 In the morning it was still raining so heavily that I could only get started at 1 pm. There were only two possible bike routes, and as I had heard terrible things about the one south of Lake Sarbsko (apparently current R10), I chose the bike road between the sea and the lake (apparently old R10?). It started out ok, but then things got bad again — you can see it in the picture. On top of that, there were hordes of mosquitoes attacking me today. <br>
 So again, for the 10 km it took me two hours and a lot of strength. Then I had to clean up my bike and oil the chain at a river in the next village. For today, that was enough dirt road on the #r10 and #ev10. <br>
@@ -19,8 +18,7 @@ So I decided to stick to the national highways for cars, and for the first time 
 <br><br>
 I made my way to a simple and small camp site right behind the dunes in Karwia. So I had my dinner on the beach, and that makes up for a lot of the trouble.
 <br><br>
-#bike2finland #bikepacking #ev10 #eurovelo10 #wetsandyhell_
-{: .notice}
+#bike2finland #bikepacking #ev10 #eurovelo10 #wetsandyhell
 
 I slept [here](https://www.openstreetmap.org/way/100295844).
 

@@ -6,13 +6,11 @@ categories:
 tags:
   - Finland
 ---
-{% include ig_post url="https://www.instagram.com/p/Blzov2hFUZi/" %}
-_So I completed the first leg of my trip and successfully made it to Helsinki (despite a stormy headwind and many hills), to visit Mari, a long-time friend of mine. 😊
+So I completed the first leg of my trip and successfully made it to Helsinki (despite a stormy headwind and many hills), to visit Mari, a long-time friend of mine. 😊
 <br>
 I feel pretty glad.
 <br>
-#cycle2finland_
-{: .notice}
+#cycle2finland
 
 ### Overnight stay
 

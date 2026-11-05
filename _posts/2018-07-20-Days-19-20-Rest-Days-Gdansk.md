@@ -7,9 +7,7 @@ tags:
   - Poland
 ---
 
-{% include ig_post url="https://www.instagram.com/p/BlfqYF4FzdQ/" %}
-_Gdańsk… Such a beautiful city! 😍_
-{: .notice}
+Gdańsk… Such a beautiful city! 😍
 
 I had some very nice days in Gdańsk.
 

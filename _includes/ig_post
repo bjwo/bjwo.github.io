@@ -1,3 +1,1 @@
-**{{ page.date | date: '%B %d, %Y' }} - {{ page.excerpt }}**
-
-**[Instagram post]({{ include.url }}):**<br>
+{%- comment -%}Deprecated: the Instagram embeds were removed.{%- endcomment -%}

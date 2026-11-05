@@ -7,9 +7,7 @@ tags:
   - Poland
   - Ferry
 ---
-{% include ig_post url="https://www.instagram.com/p/BlihnBdFVKs/" %}
-_I'm on a boat to Sweden! Goodbye Gdańsk, it was lovely. 🇵🇱🚢🇸🇪_
-{: .notice}
+I'm on a boat to Sweden! Goodbye Gdańsk, it was lovely. 🇵🇱🚢🇸🇪
 
 Important to note: the ferry to Sweden departs from the harbor on the Westerplatte side — I had a hard time figuring that out, as it wasn't noted anywhere, and nobody from Polferries answered the phone.
 

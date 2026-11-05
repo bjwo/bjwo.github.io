@@ -6,11 +6,9 @@ categories:
 tags:
   - Finland
 ---
-{% include ig_post url="https://www.instagram.com/p/BmhpAfZlCWO/" %}
-_Yesterday the weather got better again, and we cycled 97 km from Pinkjärvi to Uusikaupunki. The landscape was beautiful, and we really liked the towns of Eurajoki and Rauma.
+Yesterday the weather got better again, and we cycled 97 km from Pinkjärvi to Uusikaupunki. The landscape was beautiful, and we really liked the towns of Eurajoki and Rauma.
 <br>
-Going to the sauna at golf clubs has now become a little tradition of ours. 😉_
-{: .notice}
+Going to the sauna at golf clubs has now become a little tradition of ours. 😉
 
 ### Overnight stay
 

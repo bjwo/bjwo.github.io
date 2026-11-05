@@ -6,8 +6,7 @@ categories:
 tags:
   - Poland
 ---
-{% include ig_post url="https://www.instagram.com/p/BlXieIYlld8/" %}
-_Words or these pictures cannot describe my frustration yesterday. I understood before that the #ev10 is not fully developed, but didn't expect the roads to be in this bad a shape.
+Words or these pictures cannot describe my frustration yesterday. I understood before that the #ev10 is not fully developed, but didn't expect the roads to be in this bad a shape.
 <br><br>
 It started with heavy rain during the night — even though none was predicted.<br>
 The first bit through a national park was mostly ok road-wise, not great, with only a few sandy patches.
@@ -23,8 +22,7 @@ I finally reached Łeba, tired and with no appetite for pitching a tent in the r
 <br><br>
 And half a kilometre before I reached the apartment, my old Android phone, which I used for navigation, popped out of the bag and the display broke. So I hope the battery on my other, newer phone is sufficient to navigate all day long.
 <br><br>
-A hard day, but only #53km. #cycle2finland #eurovelo10 #ev10 #r10_
-{: .notice}
+A hard day, but only #53km. #cycle2finland #eurovelo10 #ev10 #r10
 
 In retrospect, this was probably the 2nd worst day I had during the whole trip, and the most exhausting. If you're traveling along this route, I can only recommend that you avoid this stretch and choose the highway instead.
 

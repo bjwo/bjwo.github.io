@@ -6,8 +6,7 @@ categories:
 tags:
   - Poland
 ---
-{% include ig_post url="https://www.instagram.com/p/Blc5Oxel5N2/" %}
-_My unlucky streak continues… 😉 I only made 2.5 km before my bike carrier broke yesterday. To be precise, the screw broke off in the middle, and half of the screw remains in the bike frame. This meant my back wheel was locked in place and I couldn't continue. <br>
+My unlucky streak continues… 😉 I only made 2.5 km before my bike carrier broke yesterday. To be precise, the screw broke off in the middle, and half of the screw remains in the bike frame. This meant my back wheel was locked in place and I couldn't continue. <br>
 I tried a first fix with zip ties myself, but the wheel was still blocked. 😑
 <br><br>
 However, as a true German I am well insured and a member of the @adfc.de — think ADAC (Germany) or AAA (US) for bicycles.<br>
@@ -26,8 +25,7 @@ Later at night I befriended some guys who were about to do some "urban exploring
 <br><br>
 So the day ended well and I was happy — though a little bit disappointed that I wasn't able to cycle the last 62 km to Gdańsk.
 <br><br>
-#cycle2finland_
-{: .notice}
+#cycle2finland
 
 I slept [here](https://www.openstreetmap.org/node/5993944785).
 

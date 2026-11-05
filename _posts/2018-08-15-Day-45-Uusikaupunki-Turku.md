@@ -7,8 +7,7 @@ tags:
   - Finland
   - Ferry
 ---
-{% include ig_post url="https://www.instagram.com/p/BmitK94l7VY/" %}
-_The day started through the wet, thawing morning woods — needless to say, Dani wasn't too pleased with the little "shortcut" I had suggested. 🙄
+The day started through the wet, thawing morning woods — needless to say, Dani wasn't too pleased with the little "shortcut" I had suggested. 🙄
 <br><br>
 We were quite confident with our progress, and had plenty of time to do the last 90 km to Turku and reach the ferry boat to Sweden. We even chose to extend our route via the Archipelago Ring Road.
 <br><br>
@@ -17,8 +16,7 @@ However, right before our lunch break Dani's derailleur hanger broke — in the 
 So I took a saddle bag off Dani's bike, and she rode the remaining hills on a single gear. We made it to Turku in time.
 Quite worried that we can't find the right spare parts in Stockholm.
 <br><br>
-As soon as our heads hit the mattress, we fell into a sound sleep._
-{: .notice}
+As soon as our heads hit the mattress, we fell into a sound sleep.
 
 ### Overnight stay
 

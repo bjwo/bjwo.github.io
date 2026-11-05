@@ -7,8 +7,7 @@ tags:
   - Poland
   - Germany
 ---
-{% include ig_post url="https://www.instagram.com/p/BlQPheYBfBN/" %}
-_The first 1000 km are done. 🎉🎉🎉 Heading into Poland now. 🇩🇪🚲🇵🇱 #cycle2finland<br><br>
+The first 1000 km are done. 🎉🎉🎉 Heading into Poland now. 🇩🇪🚲🇵🇱 #cycle2finland<br><br>
 I'm a bit late with the report on yesterday. I started out in Anklam and quickly made my way over to the island of Usedom. There is a pretty cool lift bridge, which is still a remnant of WWII: the Nazis raised the bridge as they retreated and destroyed the bridge bases to prevent the Soviets from moving on toward Berlin. The bridge has remained in this raised state ever since.
 <br><br>
 Then I crossed over to Poland and saw the Baltic Sea for the first time on this journey. 😍
@@ -22,8 +21,7 @@ I made my way to a little camp site on a farm, as I try to avoid the touristy pa
 <br><br>
 Oh, and in the morning I woke up to a dog peeing on my tent. 😑
 <br><br>
-#cycle2finland #bikepacking #ev10 #eurovelo10 #92km #700hm_
-{: .notice}
+#cycle2finland #bikepacking #ev10 #eurovelo10 #92km #700hm
 
 I slept [here](https://www.openstreetmap.org/node/2404070829).
 

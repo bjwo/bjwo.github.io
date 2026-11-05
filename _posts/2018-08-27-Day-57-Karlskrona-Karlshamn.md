@@ -6,9 +6,7 @@ categories:
 tags:
   - Sweden
 ---
-{% include ig_post url="https://www.instagram.com/p/BnDV86llS1C/" %}
-_On the ride from Karlskrona to Karlshamn we spent our time closely monitoring the rain radar on our phones and dodging the frequent showers._
-{: .notice}
+On the ride from Karlskrona to Karlshamn we spent our time closely monitoring the rain radar on our phones and dodging the frequent showers.
 
 ### Overnight stay
 

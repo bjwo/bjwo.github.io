@@ -6,8 +6,7 @@ categories:
 tags:
   - Poland
 ---
-{% include ig_post url="https://www.instagram.com/p/BlSAOqNhojv/" %}
-_For the first 40 km or so the roads were very rough and progress was slow. It's hard to see how this can be part of the official EuroVelo network.
+For the first 40 km or so the roads were very rough and progress was slow. It's hard to see how this can be part of the official EuroVelo network.
 <br><br>
 Anyway, the landscape remains beautiful, and the beach towns all look the same, with the same shops, the same small carnival, and with lots and lots of people.
 <br><br>
@@ -19,8 +18,7 @@ After the city of Kołobrzeg there was this AMAZING cycle road (co-financed by t
 <br><br>
 I had to stop for the night even though I could have gone on, as there didn't seem to be any suitable camp sites ahead. So I ended up on a bigger camp site — nobody speaks English — not my most favorite place to sleep. Anyway, I got some good #pierogi and #pivo, did my laundry and watched the sunset on the beach. 🌅
 <br><br>
-#cycle2finland #bikepacking #102km #ev10 #eurovelo10_
-{: .notice}
+#cycle2finland #bikepacking #102km #ev10 #eurovelo10
 
 I slept [here](https://www.openstreetmap.org/way/296669365).
 

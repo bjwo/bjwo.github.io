@@ -6,8 +6,7 @@ categories:
 tags:
   - Finland
 ---
-{% include ig_post url="https://www.instagram.com/p/BluucLIl7bq/" %}
-_Started a bit late, and first I had to run some errands, like getting a Finnish SIM card and fixing my lowrider. A rather special part had broken (probably down to the very shaky roads in northern Poland and Saxony), and I couldn't find a proper replacement, so again I did it using my MacGyver skills. 😉
+Started a bit late, and first I had to run some errands, like getting a Finnish SIM card and fixing my lowrider. A rather special part had broken (probably down to the very shaky roads in northern Poland and Saxony), and I couldn't find a proper replacement, so again I did it using my MacGyver skills. 😉
 <br><br>
 Then my first entertaining moment was when I saw the young guy who had passed me very fast on his e-chopper bike — he had run out of battery. Those are the little things that make you happy on a bike. 😂
 <br><br>
@@ -18,8 +17,7 @@ I had found a shelter on a little island in a national park, with a fireplace, a
 <br><br>
 The swim in the evening was amazing, and I set up my hammock right by the lake. This was definitely one of the highlights of my trip so far.
 <br><br>
-#cycle2finland #eurovelo10 #ev10_
-{: .notice}
+#cycle2finland #eurovelo10 #ev10
 
 ### Overnight stay
 
