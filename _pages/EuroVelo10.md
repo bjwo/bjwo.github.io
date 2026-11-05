@@ -64,7 +64,7 @@ So here are some key components:
 # Learnings
 
 * You can never pack enough zip ties! These things are invaluable!
-* Deflate your tyres when you are on very sandy stretches.
+* Deflate your tires when you are on very sandy stretches.
 * Don't blindly trust the EuroVelo route.
 
 # Routing
@@ -75,7 +75,7 @@ I used an old Android phone (Sony Xperia M2) for navigation and tracking my rout
 
 # Documenting the trip
 
-Originally, I had documented and "blogged" the trip on Instagram. This turned out to be less than ideal, because I learned later that some of my friends didn't realise that I had posted more than just the daily route summary, and they would have needed to swipe through the other pics.
+Originally, I had documented and "blogged" the trip on Instagram. This turned out to be less than ideal, because I learned later that some of my friends didn't realize that I had posted more than just the daily route summary, and they would have needed to swipe through the other pics.
 
 As I am planning to do another trip this summer, I am now documenting this one on my blog as well, including the pics and info from my Instagram account.
 
@@ -98,7 +98,7 @@ Whenever I found a place to shower, I typically also did some quick laundry as d
 
 ## Germany
 
-In Germany, "wild camping" is officially not allowed. Most land in Germany is owned by somebody — so you'd need to ask the landowner for permission to camp. In state-owned forests the law states that it is forbidden to sleep in tents ("Zelten verboten"), so there seems to be some legally grey area when you rest/sleep without a "tent". A hammock, bivouac or tarp should be fine.
+In Germany, "wild camping" is officially not allowed. Most land in Germany is owned by somebody — so you'd need to ask the landowner for permission to camp. In state-owned forests the law states that it is forbidden to sleep in tents ("Zelten verboten"), so there seems to be some legally gray area when you rest/sleep without a "tent". A hammock, bivouac or tarp should be fine.
 
 This is why in Germany I resorted to looking for shelters on OpenStreetMap and slept in a hammock there. As long as you behave, don't make a fire and pick up after yourself, you should be fine.
 

@@ -7,7 +7,7 @@ tags:
   - Sweden
 ---
 {% include ig_post url="https://www.instagram.com/p/Bm8244RlIMk/" %}
-_We took a day off from cycling, booked a hotel in Karlskrona and enjoyed the beautiful weather and city. 🏡🇸🇪 And we had two coincidental meet-ups again: we met Doro in the morning at the side of the road, and in Karlskrona friends of my parents recognised us and yelled my name. Small world, indeed. 😁_
+_We took a day off from cycling, booked a hotel in Karlskrona and enjoyed the beautiful weather and city. 🏡🇸🇪 And we had two coincidental meet-ups again: we met Doro in the morning at the side of the road, and in Karlskrona friends of my parents recognized us and yelled my name. Small world, indeed. 😁_
 {: .notice}
 
 ### Overnight stay

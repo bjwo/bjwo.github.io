@@ -9,7 +9,7 @@ tags:
 ---
 We used the day for more sightseeing in Gothenburg, laundry, and making a decision on how to proceed with our cycling trip.
 
-We originally had planned to take the ferry from Gothenburg over to Denmark, and then to cycle along the [North Sea Cycle Route in Denmark](http://northseacycleroute.dk/home/) towards Germany.
+We originally had planned to take the ferry from Gothenburg over to Denmark, and then to cycle along the [North Sea Cycle Route in Denmark](http://northseacycleroute.dk/home/) toward Germany.
 
 However, there is also the [Kattegattleden](https://kattegattleden.se/en/) (or EuroVelo 13) along the Swedish west coast from Göteborg to Malmö.
 

@@ -18,7 +18,7 @@ Usually I always looked forward to reaching my set goal for the day, but today t
 
 I had already been warned that the road between Murfatlar and Constanța was bad, and had been recommended to take the train instead. But after cycling every centimetre of this trip, my pride would not allow me to take a shortcut for the last remaining 21 kilometres. I am not sure that I would take this decision again, as this stretch was by far the most dangerous one of the two months I had been on the road.
 There were cars going over 100 km/h and passing very closely. At one point, where the highway crossed underneath the freeway, there was no shoulder at all. I was even attacked by three stray dogs who came at me out of nowhere. With the cars passing by very fast and very closely, I had no way of defending myself and could just accelerate a little bit more. Fortunately, the dogs were eventually scared off by some car. Man, this got my heart and adrenaline pumping.
-Also, cycling through the Constanța traffic was pretty bad. So I wouldn't recommend this to anyone else. I don't want to imagine how close the cars would have passed without my red and white defence stick.
+Also, cycling through the Constanța traffic was pretty bad. So I wouldn't recommend this to anyone else. I don't want to imagine how close the cars would have passed without my red and white defense stick.
 
 Eventually I made it to the room I had booked at the [Casa cu Fluturi](https://goo.gl/maps/5CJjVwZeJqRnzVaU8) near the beach. The apartment and the host were really nice and helpful.
 

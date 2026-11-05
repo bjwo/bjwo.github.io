@@ -13,7 +13,7 @@ Then my first entertaining moment was when I saw the young guy who had passed me
 <br><br>
 I am now riding the King's Road, the most important route from Russia to Sweden in former times. And it's so much fun to ride on these great Finnish cycle roads! 😍
 <br><br>
-Today I had already decided in advance where I want to sleep, as you need to plan a bit more here in Finland, where civilisation can be a bit more sparse.
+Today I had already decided in advance where I want to sleep, as you need to plan a bit more here in Finland, where civilization can be a bit more sparse.
 I had found a shelter on a little island in a national park, with a fireplace, a dry toilet and a fresh-water lake to swim in. The last kilometre wasn't suitable for bicycles, however not worse than Polish roads. 😉 And I was so glad I made it there. You had to pull yourself over to the island using a little ferry, and everything was so nice and calm.
 <br><br>
 The swim in the evening was amazing, and I set up my hammock right by the lake. This was definitely one of the highlights of my trip so far.

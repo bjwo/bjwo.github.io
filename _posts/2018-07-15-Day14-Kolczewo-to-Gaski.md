@@ -15,9 +15,9 @@ However, if you go through the national parks just a bit outside of town, you'll
 <br><br>
 Also, I hardly met any other bikepackers, to my surprise.
 <br><br>
-After the city of Kołobrzeg there was this AMAZING cycle road (co-financed by the EU, as most cycle roads) right along the coast, and you could see the sea while riding. This was probably my favourite stretch of my journey so far.
+After the city of Kołobrzeg there was this AMAZING cycle road (co-financed by the EU, as most cycle roads) right along the coast, and you could see the sea while riding. This was probably my favorite stretch of my journey so far.
 <br><br>
-Unfortunately, I had to find a place to stay, even though I could have gone on — as there didn't seem to be any suitable camp sites ahead. So I ended up on a bigger camp site — nobody speaks English — not my most favourite place to sleep. Anyway, I got some good #pierogi and #pivo, did my laundry and watched the sunset on the beach. 🌅
+Unfortunately, I had to find a place to stay, even though I could have gone on — as there didn't seem to be any suitable camp sites ahead. So I ended up on a bigger camp site — nobody speaks English — not my most favorite place to sleep. Anyway, I got some good #pierogi and #pivo, did my laundry and watched the sunset on the beach. 🌅
 <br><br>
 #cycle2finland #bikepacking #102km #ev10 #eurovelo10_
 {: .notice}

@@ -15,7 +15,7 @@ A little later, when leaving the suburbs of Belgrade, I had to choose between ri
 
 The weather was also on my side — and fortunately it didn't rain all day, in contrast to what the weather report had predicted.
 
-The ferry was rather interesting: it didn't have its own motor, and it docked to the land by shovelling dirt and gravel in between the ferry and the land.
+The ferry was rather interesting: it didn't have its own motor, and it docked to the land by shoveling dirt and gravel in between the ferry and the land.
 
 I made it to a nice little camp site on the other side of the river. The standard price for a room here in the Serbian countryside always seems to be the equivalent of 10 € in RSD.
 

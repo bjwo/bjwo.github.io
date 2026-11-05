@@ -10,7 +10,7 @@ tags:
 ---
 In the morning I split ways with Marieke and Guus, as they wanted to try their luck on the northern side of the Danube, and I wanted to go on the southern side.
 
-It was a bit cold and overcast, but fortunately the rain predicted in the forecast did not materialise. There were great dedicated bike paths for most of the route today, so cycling was fairly easy.
+It was a bit cold and overcast, but fortunately the rain predicted in the forecast did not materialize. There were great dedicated bike paths for most of the route today, so cycling was fairly easy.
 
 I saw reports from other riders that one 10 km stretch was again in bad shape on top of a dike, so I rather went around it and shared the road with the cars and trucks. 😣
 
@@ -28,7 +28,7 @@ It looked really nice. The [wild camp site](https://goo.gl/maps/yWPvsfeH2fx5k7pA
 
 Having a shower at the end of a cycling day is probably the biggest and nicest luxury I can think of these days.
 
-Afterwards, the guy's wife poured me a beer, which I also had to drink with them.
+Afterward, the guy's wife poured me a beer, which I also had to drink with them.
 
 Their German was good enough that I could prepare them that there would be two more Dutch cyclists coming soon — so they could shower there too.
 

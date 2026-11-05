@@ -9,7 +9,7 @@ tags:
 {% include ig_post url="https://www.instagram.com/p/Bmz3hi4l7y2/" %}
 _The day after the rain went much better. We had a complete day of sunshine, were able to dry all of our clothes on our bicycles, and we had a nice ride through beautiful scenery. Made around 100 km that day. There are so, so many hills — it's a constant rollercoaster.
 <br><br>
-We slept at a shelter on a lake. Unfortunately, we only realised after putting up our tent inside that there was a wasp nest — and then we realised that there was a hornet's nest on the toilet. But they didn't care about us and left us alone, so we had a nice and quiet night anyway._
+We slept at a shelter on a lake. Unfortunately, we only realized after putting up our tent inside that there was a wasp nest — and then we realized that there was a hornet's nest on the toilet. But they didn't care about us and left us alone, so we had a nice and quiet night anyway._
 {: .notice}
 
 ### Overnight stay

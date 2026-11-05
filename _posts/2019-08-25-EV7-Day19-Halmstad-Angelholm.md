@@ -8,7 +8,7 @@ tags:
   - Shelter
   - Kattegattleden
 ---
-Today we saw our third elk — this time from a distance of only 3–4 metres! He was really nice and didn't mind us.
+Today we saw our third elk — this time from a distance of only 3–4 meters! He was really nice and didn't mind us.
 
 Before lunch in Båstad we were surprised by the steepest incline of our trip. And we were now in the sun at 29 °C. When we got to the posh golf club, my shirt was drenched, but fortunately we were allowed to have a shower there before eating a very good — though pricey — lunch.
 

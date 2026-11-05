@@ -20,7 +20,7 @@ Also, it now starts to get dark at 7, so when you factor in that you have to spe
 
 So I rolled into some camp site at dusk, and fortunately I met a very nice couple from the Netherlands there: Marieke and Guus. They were the only people there.
 
-They joined me for a beer at a nearby restaurant, where I had some very mediocre fish and chips. We had a long, nice chat about our cycling trips, and it turned out that they are also heading towards the Black Sea on their tandem.
+They joined me for a beer at a nearby restaurant, where I had some very mediocre fish and chips. We had a long, nice chat about our cycling trips, and it turned out that they are also heading toward the Black Sea on their tandem.
 
 ## Photos
 

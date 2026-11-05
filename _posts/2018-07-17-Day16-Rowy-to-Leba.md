@@ -26,9 +26,9 @@ And half a kilometre before I reached the apartment, my old Android phone, which
 Yesterday was just not my day. #53km #cycle2finland #wtf #sandyhell #eurovelo10 #ev10 #r10_
 {: .notice}
 
-In retrospect, this was probably the 2nd worst day I had during the whole trip, and the most exhausting. If you're travelling along this route, I can only recommend that you avoid this stretch and choose the highway instead.
+In retrospect, this was probably the 2nd worst day I had during the whole trip, and the most exhausting. If you're traveling along this route, I can only recommend that you avoid this stretch and choose the highway instead.
 
-I later learned after my trip that it might have helped to let some air out of my bike tyres to get ahead on the sandy stretches.
+I later learned after my trip that it might have helped to let some air out of my bike tires to get ahead on the sandy stretches.
 
 I slept [here](https://www.openstreetmap.org/way/351911112).
 

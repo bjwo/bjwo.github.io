@@ -13,7 +13,7 @@ We had already ridden 68 km before we had lunch at a café in Nordmaling. We als
 
 Generally, the scenery with all the little Swedish villages, the red houses and the nice gardens is so beautiful. I think we might even like it more than what we saw on the coast south of Stockholm last year.
 
-The EuroVelo 7 road conditions were also pretty great (mostly paved and almost no car traffic), except for one little stretch where we were forced to ride on a very narrow shoulder of the Swedish "Autobahn" E4. That was very scary, but there were also no alternatives we could have taken. We tried to find a better way, only to hit the railway tracks and a fence after a few hundred metres. It's hard to fathom why they marked this as the official route of the Sverigeleden as well.
+The EuroVelo 7 road conditions were also pretty great (mostly paved and almost no car traffic), except for one little stretch where we were forced to ride on a very narrow shoulder of the Swedish "Autobahn" E4. That was very scary, but there were also no alternatives we could have taken. We tried to find a better way, only to hit the railway tracks and a fence after a few hundred meters. It's hard to fathom why they marked this as the official route of the Sverigeleden as well.
 
 We found a very beautiful shelter at a waterfall / dam near Gideå Bruk. Highly recommended location.
 As we arrived it started to drizzle, which later turned into rain. We went for a swim anyway to wash ourselves in the river.
