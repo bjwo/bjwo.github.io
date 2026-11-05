@@ -8,10 +8,10 @@ tags:
 ---
 
 {% include ig_post url="https://www.instagram.com/p/BkzL7vGhbK4/" %}
-_#day2 went really smooth. For the first part of the day I followed the Vulkanradweg, which followed the former tracks of a railroad. It was a steady climb over a stretch of 30km and it is so beautiful here! I can highly recommend this route. If I am not mistaken, this was already the highest point of my whole route. 🤓 In the afternoon I found a swimming pool, had a proper shower, took a dip, did some laundry, stocked up my supplies before taking on the last 20km to the outdoor shelter before the gates of Bad Hersfeld, where I spent my night. #111km #880hm #cycle2finland 🇩🇪🚲🇫🇮_
+_Went really smoothly. For the first part of the day I followed the Vulkanradweg, which traces the former tracks of a railway line. It was a steady climb over a stretch of 30 km, and it is so beautiful here! I can highly recommend this route. If I am not mistaken, this was already the highest point of my whole route. 🤓 In the afternoon I found a swimming pool, had a proper shower, took a dip, did some laundry and stocked up my supplies, before taking on the last 20 km to the outdoor shelter before the gates of Bad Hersfeld, where I spent the night. #111km #880hm #cycle2finland 🇩🇪🚲🇫🇮_
 {: .notice}
 
-### Overnight Stay
+### Overnight stay
 
 I slept [here](https://www.openstreetmap.org/node/852638613).
 

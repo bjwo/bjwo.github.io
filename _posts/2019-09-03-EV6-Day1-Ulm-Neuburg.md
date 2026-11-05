@@ -8,7 +8,7 @@ tags:
   - Donauradweg
   - Camping
 ---
-Today was the first day cycling on my own. I decided not to start in Mannheim, to have more flexibility/ buffer at the end of my trip.
+Today was the first day cycling on my own. I decided not to start in Mannheim, to have more flexibility and a buffer at the end of my trip.
 
 The Donauradweg is really well developed, and there are plenty of cycle tourists here. However, most people are lightly packed, so it seems they are only doing shorter day trips.
 

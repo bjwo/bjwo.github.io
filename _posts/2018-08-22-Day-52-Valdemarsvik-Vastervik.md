@@ -1,21 +1,21 @@
 ---
 title: "EV10: Day 52: Valdemarsvik to Västervik"
-excerpt: "70 km"
+excerpt: "90 km"
 categories:
   - EuroVelo10
 tags:
   - Sweden
 ---
 {% include ig_post url="https://www.instagram.com/p/Bm1TFgfFL0v/" %}
-_Life on the road continues... Not much to tell: the area is very hilly which always makes for an exhausting ride and the headwind doesn't help either. 😉 However the sun is shining and morale is still good.
+_Life on the road continues… Not much to tell: the area is very hilly, which always makes for an exhausting ride, and the headwind doesn't help either. 😉 However, the sun is shining and morale is still good.
 <br><br>
 We cycled roughly 90 km from Valdemarsvik to Västervik. <br>
-Unfortunately the shelter we had looked out for the night was hogged by German Campervan tourists (grr), but we could find another one nearby._
+Unfortunately, the shelter we had picked out for the night was hogged by German campervan tourists (grr), but we could find another one nearby._
 {: .notice}
 
-### Overnight Stay
+### Overnight stay
 
-We slept in a [nice shelter here](https://www.openstreetmap.org/node/6531758051). 
+We slept in a [nice shelter here](https://www.openstreetmap.org/node/6531758051).
 
 ### Photos
 

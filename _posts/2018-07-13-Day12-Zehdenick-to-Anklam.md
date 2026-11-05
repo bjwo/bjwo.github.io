@@ -7,7 +7,7 @@ tags:
   - Germany
 ---
 {% include ig_post url="https://www.instagram.com/p/BlM5YKnB0TU/" %}
-_#day12: almost made it to the Baltic Sea. Again I rode a bit on former railway tracks (Bahnradweg), that is the most wonderful thing for cyclists: straight, no steep inclines or curves, great road surface, beautiful surrounding. 😍🚂 I pitched my tent up at the harbor in Anklam, and there are now many other cyclists around.
+_Almost made it to the Baltic Sea. Again I rode a bit on former railway tracks (Bahnradweg), which is the most wonderful thing for cyclists: straight, no steep inclines or curves, great road surface, beautiful surroundings. 😍🚂 I pitched my tent at the harbour in Anklam, and there are now many other cyclists around.
 <br><br>
 #cycle2finland #deutschlandperrad #116km #700hm #bikepacking_
 {: .notice}

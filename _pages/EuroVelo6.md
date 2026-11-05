@@ -1,6 +1,6 @@
 ---
 title: "EuroVelo 6: Cycle from Ulm to the Black Sea along the Danube"
-excerpt: "In September 2019 I cycled the EuroVelo 6 along the Danube river from Ulm all the way to Constanta at the Black Sea - before heading to a wedding of a good friend in Bucharest."
+excerpt: "In September 2019 I cycled the EuroVelo 6 along the Danube river from Ulm all the way to Constanța at the Black Sea — before heading to the wedding of a good friend in Bucharest."
 header:
   overlay_image: /assets/images/EuroVelo6/ev6-banner.jpg
   overlay_filter: 0.35

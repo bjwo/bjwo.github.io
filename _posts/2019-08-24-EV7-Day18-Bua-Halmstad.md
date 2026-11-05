@@ -8,12 +8,12 @@ tags:
   - Shelter
   - Kattegattleden
 ---
-The beautiful weather continues. We're now cycling through a holiday region where many swedes have some little cabins on the seaside. And after a relatively cold and rainy dinner everybody was now outside and enjoying a late hot summer.
+The beautiful weather continues. We're now cycling through a holiday region where many Swedes have little cabins by the sea. And after a relatively cold and rainy summer, everybody was now outside, enjoying a late hot summer.
 
 We also went to the beach for a short while, ate great ice cream and I took a dive into the sea.
 
-We made it to Halmstad, where we first took a shower in the guest harbor (a lady was nice enough to give us the PIN code) before we found a shelter at an artificial lake created as wildlife reservoir for some birds.
-We watched an amazing sunset with flocks of geese taking off and coming back again and again. They were quite loud and unfortunately kept me from sleeping well. 
+We made it to Halmstad, where we first took a shower at the guest harbour (a lady was nice enough to give us the PIN code) before we found a shelter at an artificial lake created as a wildlife reservoir for some birds.
+We watched an amazing sunset with flocks of geese taking off and coming back again and again. They were quite loud and unfortunately kept me from sleeping well.
 
 ## Photos
 

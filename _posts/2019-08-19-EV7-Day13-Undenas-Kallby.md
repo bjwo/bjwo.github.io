@@ -7,9 +7,9 @@ tags:
   - Sweden
   - Vindskydd
 ---
-All in all a day with mostly sunshine, however we had to keep watching the rain radar in order to successfully dodge the numerous rain showers. There are not that many hills to climb anymore, however we got a strong headwind now, so the 90 km we did today still felt very challenging.
+All in all a day with mostly sunshine; however, we had to keep watching the rain radar in order to successfully dodge the numerous rain showers. There are not that many hills to climb anymore, but we had a strong headwind now, so the 90 km we did today still felt very challenging.
 
-We found a nice shelter at _Lasse's and Inga's cave_ - a couple who built a house in a cave around 1880. There was even a water tap there, as a water main between two villages passes directly under the shelter. 
+We found a nice shelter at _Lasse's and Inga's cave_ — a couple who built a house in a cave around 1880. There was even a water tap there, as a water main between two villages passes directly under the shelter.
 
 ## Photos
 

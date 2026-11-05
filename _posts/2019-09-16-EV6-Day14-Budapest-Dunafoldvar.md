@@ -1,5 +1,5 @@
 ---
-title: "EV6: Day 14: Budapest 🇭🇺 to Dunaföldvar 🇭🇺"
+title: "EV6: Day 14: Budapest 🇭🇺 to Dunaföldvár 🇭🇺"
 excerpt: "109 km"
 categories:
   - EuroVelo6
@@ -8,19 +8,19 @@ tags:
   - Donauradweg
   - Camping
 ---
-The route out of Budapest was surprisingly good: good roads and signage. I found it strange that the route into the city was so bad in comparison, as I believe more tourists would go on direction of Vienna than downstream.
+The route out of Budapest was surprisingly good: good roads and signage. I found it strange that the route into the city was so bad in comparison, as I believe more tourists would head in the direction of Vienna than downstream.
 
-The first part followed an old sidearm of the Danube. Here there were so many villas and cottages. And it seems that pretty much everyone here owns their own little jetty with a bench for fishing. Really lovely area.
+The first part followed an old side arm of the Danube. Here there were so many villas and cottages. And it seems that pretty much everyone here owns their own little jetty with a bench for fishing. Really lovely area.
 
-Also, I found out interesting that in some areas there were numerous freshwater wells at the side of the road which were free to use. I asumme they are still around from times when not every house had their own water connection.
+Also, I found it interesting that in some areas there were numerous freshwater wells at the side of the road which were free to use. I assume they are still around from times when not every house had its own water connection.
 
-Later in the afternoon the roads got significantly worse: for many kilometres the road was now following a small, bumpy path on top of a dike. That cost me more time than I had expected.
+Later in the afternoon the roads got significantly worse: for many kilometres the road now followed a small, bumpy path on top of a dike. That cost me more time than I had expected.
 
-Also it starts to get dark at 7 now so when you need to factor in that you have to spend the mornings drying your tent and packing everything, then you don't have so much time left for cycling in the daytime.
+Also, it now starts to get dark at 7, so when you factor in that you have to spend the mornings drying your tent and packing everything, you don't have so much time left for cycling in daylight.
 
-So so I rolled into some campsite at dawn and fortunately I met a very nice couple from the Netherlands there: Marieke and Guus. They were the only people there.
+So I rolled into some camp site at dusk, and fortunately I met a very nice couple from the Netherlands there: Marieke and Guus. They were the only people there.
 
-They joined me for a beer at a nearby restaurants where I had some very mediocre fish and chips. We had a long nice chat about our cycling trips, and it turned out that they are also heading towards the Black Sea on their tandem.
+They joined me for a beer at a nearby restaurant, where I had some very mediocre fish and chips. We had a long, nice chat about our cycling trips, and it turned out that they are also heading towards the Black Sea on their tandem.
 
 ## Photos
 

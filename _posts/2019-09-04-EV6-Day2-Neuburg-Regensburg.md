@@ -10,9 +10,9 @@ tags:
 ---
 Perfect cycling conditions today. The roads are mostly great, although a lot of them are dirt roads.
 
-Beautiful scenery asking the Danube. There are so many cyclists in the road, however not many carry their own tent.
+Beautiful scenery along the Danube. There are so many cyclists on the road, but not many carry their own tent.
 
-Tonight I am sleeping on the camping site if the Canoe Club in Regensburg.
+Tonight I am sleeping on the camp site of the canoe club in Regensburg.
 
 ## Photos
 

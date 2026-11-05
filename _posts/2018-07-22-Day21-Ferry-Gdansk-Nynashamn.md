@@ -8,14 +8,14 @@ tags:
   - Ferry
 ---
 {% include ig_post url="https://www.instagram.com/p/BlihnBdFVKs/" %}
-_I'm on a boat to Sweden! Goodbye Gdansk, it was lovely. 🇵🇱🚢🇸🇪_
+_I'm on a boat to Sweden! Goodbye Gdańsk, it was lovely. 🇵🇱🚢🇸🇪_
 {: .notice}
 
-Important to note: The ferry to Sweden goes from the harbour on the Westerplatte side -- I had a hard time figuring that out as it wasn't noted anywhere, and nobody from Polferries answered the phone.
+Important to note: the ferry to Sweden departs from the harbour on the Westerplatte side — I had a hard time figuring that out, as it wasn't noted anywhere, and nobody from Polferries answered the phone.
 
-### Overnight Stay
+### Overnight stay
 
-I slept on the floor on the [M/F Wawel](https://polferries.com/our-ferries/mf-wawel.html) with tons of Polish truck drivers.
+I slept on the floor of the [M/F Wawel](https://polferries.com/our-ferries/mf-wawel.html) with tons of Polish truck drivers.
 
 ### Photos
 

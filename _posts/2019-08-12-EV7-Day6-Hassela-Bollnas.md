@@ -10,9 +10,9 @@ tags:
 ---
 The day started with a little rain, but after two hours on the road in the rain it cleared up and we had a really nice day with even some sunshine. Generally it seems to be quite hard to predict the weather here, as all weather apps are quite unreliable.
 
-Also there were some bigger hills to climb - so we conquered 1200 hm over a stretch of 122 km. But as we were well rested, we weren't quite as tired as the evenings before.
+Also, there were some bigger hills to climb — so we conquered 1200 hm over a stretch of 122 km. But as we were well rested, we weren't quite as tired as on the evenings before.
 
-The region here is so beautiful, but I'll let the pictures talk for themselves.
+The region here is so beautiful, but I'll let the pictures speak for themselves.
 
 ## Photos
 

@@ -7,18 +7,18 @@ tags:
   - Sweden
 ---
 {% include ig_post url="https://www.instagram.com/p/BnE3fSTFSjc/" %}
-_Today we cycled the remaining 108 km from Simrishamn to Trelleborg along Sweden's South coast.
+_Today we cycled the remaining 108 km from Simrishamn to Trelleborg along Sweden's south coast.
 <br><br>
 We woke up to a herd of cows chilling and eating next to our shelter.
 <br>
-Then the conditions were in our favor - hardly any headwind. Yay.
+Then the conditions were in our favour — hardly any headwind. Yay.
 <br>
-Once we arrived we meet a lovely couple bikepacking on a tandem with a trailer and their 5 month old son. They had also suffered on the same roads in northern Poland, so we had some stories to share. Really nice and inspiring people.
+Once we arrived we met a lovely couple bikepacking on a tandem with a trailer and their 5-month-old son. They had also suffered on the same roads in northern Poland, so we had some stories to share. Really nice and inspiring people.
 <br>
 Tomorrow night we'll take the ferry to Rostock and then the train back home to Mannheim._
 {: .notice}
 
-### Overnight Stay
+### Overnight stay
 
 We slept in a hotel close to the port.
 

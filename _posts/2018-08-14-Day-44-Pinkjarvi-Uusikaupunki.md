@@ -7,14 +7,14 @@ tags:
   - Finland
 ---
 {% include ig_post url="https://www.instagram.com/p/BmhpAfZlCWO/" %}
-_Yesterday the weather got better again and we cycled 97km from Pinkjärvi to Uusikaupunki. The landscape was beautiful and we really liked the cities of Eurajoki and Rauma.
+_Yesterday the weather got better again, and we cycled 97 km from Pinkjärvi to Uusikaupunki. The landscape was beautiful, and we really liked the towns of Eurajoki and Rauma.
 <br>
 Going to the sauna at golf clubs has now become a little tradition of ours. 😉_
 {: .notice}
 
-### Overnight Stay
+### Overnight stay
 
-We slept in a somewhat hidden [shelter above / on the Uusikaupunki golf course](https://www.openstreetmap.org/node/5849838009). (Yes, you actually have to cross through the golf course to reach it.)
+We slept in a somewhat hidden [shelter above the Uusikaupunki golf course](https://www.openstreetmap.org/node/5849838009). (Yes, you actually have to cross through the golf course to reach it.)
 
 ### Photos
 

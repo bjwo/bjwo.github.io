@@ -7,16 +7,16 @@ tags:
   - Sweden
 ---
 {% include ig_post url="https://www.instagram.com/p/BnDXMXyF0xr/" %}
-_The weather got better and we made a push into Sweden's apple region yesterday. 🍎🇸🇪 We found a new shelter which was built this year and fortunately, due to the rain, the fire ban has finally been lifted. 🔥🔥🔥 Also, I'm getting a bit sentimental, as this was the last night in the wild on this trip.
+_The weather got better and we made a push into Sweden's apple region yesterday. 🍎🇸🇪 We found a new shelter which was built this year, and fortunately, due to the rain, the fire ban has finally been lifted. 🔥🔥🔥 Also, I'm getting a bit sentimental, as this was the last night in the wild on this trip.
 <br><br>
-Today we'll move on to Trelleborg from where we'll take the ferry back to Germany.
+Today we'll move on to Trelleborg, from where we'll take the ferry back to Germany.
 <br><br>
 116 km._
 {: .notice}
 
-### Overnight Stay
+### Overnight stay
 
-We slept in a [shelter at Tjörnedalagarden](https://www.openstreetmap.org/node/6531907563).
+We slept in a [shelter at Tjörnedalagården](https://www.openstreetmap.org/node/6531907563).
 
 ### Photos
 

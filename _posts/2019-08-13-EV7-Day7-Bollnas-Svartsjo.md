@@ -8,13 +8,13 @@ tags:
   - Höga Kusten
   - Vindskydd
 ---
-Again another challenging day with two long climbs - one on a rough gravel road - and overall almost 1200 hm.
+Again another challenging day with two long climbs — one on a rough gravel road — and overall almost 1200 hm.
 
-According to the forecast we had expected to cycle in the rain today - but we got lucky and didn't get a single drop today.
+According to the forecast we had expected to cycle in the rain today — but we got lucky and didn't get a single drop.
 
-We saw our second moose/elk lady today! And this time we have proof. Fascinating and scary at the same time, if you don't have a car as shelter surrounding you.
+We saw our second moose/elk cow today! And this time we have proof. Fascinating and scary at the same time, if you don't have a car surrounding you as shelter.
 
-And we found a beautiful brand new shelter directly on the shore of a national park, which wasn't on any of the maps we checked and witnessed a beautiful sunset. Getting the tent set up was a tight fit, but we managed with some workarounds. 😉
+And we found a beautiful brand-new shelter directly on the shore of a national park, which wasn't on any of the maps we checked, and witnessed a beautiful sunset. Getting the tent set up was a tight fit, but we managed with some workarounds. 😉
 
 ## Photos
 

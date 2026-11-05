@@ -7,10 +7,10 @@ tags:
   - Sweden
 ---
 {% include ig_post url="https://www.instagram.com/p/BnDV86llS1C/" %}
-_The ride from Karlskrona to Karlshamn we spent closely monitoring the rain radar on our phones and dodging the frequent showers._
+_On the ride from Karlskrona to Karlshamn we spent our time closely monitoring the rain radar on our phones and dodging the frequent showers._
 {: .notice}
 
-### Overnight Stay
+### Overnight stay
 
 We slept in a [shelter](https://www.openstreetmap.org/node/5913836527).
 

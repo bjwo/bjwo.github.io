@@ -7,9 +7,9 @@ tags:
   - Sweden
   - Shelter
 ---
-Today was the last day of cycling on our trip. We rode the remaining few kilometers to Malmö, but not without stopping at a beach for my daily swim in the Kattegatt. 😄
+Today was the last day of cycling on our trip. We rode the remaining few kilometres to Malmö, but not without stopping at a beach for my daily swim in the Kattegat. 😄
 
-Somehow for our dates all hotels were booked out, so we had the choice of going to the youth hostel for a way too high price, or for just a few Euros more, to splurge and to check in at the posh Scandic hotel. So guess what we did. We got a nice room on the tenth floor with a cool view on the Öresund bridge.
+Somehow all hotels were booked out for our dates, so we had the choice between the youth hostel for a way too high price, or, for just a few euros more, splurging on the posh Scandic hotel. So guess what we did. We got a nice room on the tenth floor with a cool view of the Öresund Bridge.
 
 ## Photos
 

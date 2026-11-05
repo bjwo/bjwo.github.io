@@ -7,16 +7,16 @@ tags:
   - Finland
 ---
 {% include ig_post url="https://www.instagram.com/p/Blzov2hFUZi/" %}
-_#day27 So I completed my first leg of the trip and successfully made it to Helsinki (despite a stormy headwind and many hills) and to visit Mari, a long time friend of mine. 😊
+_So I completed the first leg of my trip and successfully made it to Helsinki (despite a stormy headwind and many hills), to visit Mari, a long-time friend of mine. 😊
 <br>
 I feel pretty glad.
 <br>
 #cycle2finland_
 {: .notice}
 
-### Overnight Stay
+### Overnight stay
 
-I slept at Mari's & Matti's place in Vantaa.
+I slept at Mari's and Matti's place in Vantaa.
 
 ### Photos
 
