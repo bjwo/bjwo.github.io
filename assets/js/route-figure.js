@@ -60,8 +60,14 @@
     // direction the user was travelling: outwards lands on the overview,
     // inwards on the detail. Snapping to the "nearest" level made zoom-out
     // from z10 jump straight back to z10, which looked broken.
+    //
+    // The flag matters: fitBounds() fires zoomend while the view is still
+    // being set up, and without it the initial fit was treated as a user
+    // zoom-out and forced the map to z5 on every page.
     var settled = maxZoom;
+    var ready = false;
     map.on("zoomend", function () {
+      if (!ready) return;
       var current = map.getZoom();
       if (ZOOMS.indexOf(current) !== -1) {
         settled = current;
@@ -118,16 +124,16 @@
       .addTo(map)
       .bindTooltip("Finish");
 
-    // Open framed on the route at the most detailed available level. The
-    // coarser level is reachable with the zoom-out control, so z5 is an
-    // overview rather than the default (at z5 a 100 km day is only a few
-    // pixels across).
+    // Open framed on the route at the most detailed available level. fitBounds
+    // on a ~100 km day picks z6-z7, which have no tiles, so snap to z10 and
+    // keep the centred view. The coarser level stays reachable by zooming out.
     map.fitBounds(line.getBounds(), { padding: [24, 24] });
     var detailed = ZOOMS[ZOOMS.length - 1];
-    if (map.getZoom() > detailed) map.setZoom(detailed);
-    // Initial fit may have passed through intermediate levels; treat the
-    // resulting view as the starting point for the direction tracking above.
-    if (ZOOMS.indexOf(map.getZoom()) !== -1) settled = map.getZoom();
+    map.setZoom(detailed);
+
+    // Initial fit is done; let the snapping handler take over from here.
+    settled = map.getZoom();
+    ready = true;
 
     return map;
   }
