@@ -27,4 +27,4 @@ It already gets dark quite early now, so I entered Budapest in the dark. What a 
 
 ## Route
 
-{% include komoot id="93469306" %}
+{% include route_map.html id="93469306" %}

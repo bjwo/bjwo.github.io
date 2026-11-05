@@ -25,3 +25,66 @@ html {
 h2 {
   font-size: 1em;
 }
+
+/* Route figure: map + altitude profile (see _includes/route_map.html) */
+.route-figure {
+  margin: 1.5em 0;
+}
+
+.route-figure__map {
+  height: 520px;
+  border-radius: 3px;
+  background: #eef1f4;
+}
+
+@media (max-width: 600px) {
+  .route-figure__map {
+    height: 340px;
+  }
+}
+
+.route-figure__chart {
+  margin-top: 0.4em;
+  position: relative;
+}
+
+.route-figure__chart[data-readout]::after {
+  content: attr(data-readout);
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 1px 6px;
+  font-size: 0.7em;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  pointer-events: none;
+}
+
+.route-figure__cursor {
+  position: absolute;
+  top: 0;
+  bottom: 1.4em;
+  width: 1px;
+  background: rgba(0, 0, 0, 0.35);
+  display: none;
+  pointer-events: none;
+}
+
+.route-figure__meta,
+.route-figure__download {
+  margin: 0.3em 0 0;
+  font-size: 0.75em;
+  color: #4a4a4a;
+}
+
+html[data-tile-base]:not([data-tile-base=""]) .route-figure__map {
+  background-image: repeating-linear-gradient(
+    45deg,
+    #eef1f4,
+    #eef1f4 10px,
+    #e7ebef 10px,
+    #e7ebef 20px
+  );
+}
+

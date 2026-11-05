@@ -24,4 +24,4 @@ I slept in a fully booked five-bed room, but didn't sleep well: there was a ment
 
 ## Route
 
-{% include komoot id="92669329" %}
+{% include route_map.html id="92669329" %}

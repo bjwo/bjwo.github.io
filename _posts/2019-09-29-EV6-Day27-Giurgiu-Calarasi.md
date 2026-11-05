@@ -21,4 +21,4 @@ Oh, and of course I didn't make it in daylight.
 
 ## Route
 
-{% include komoot id="96779530" %}
+{% include route_map.html id="96779530" %}

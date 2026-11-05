@@ -22,4 +22,4 @@ And we found a beautiful brand-new shelter directly on the shore of a national p
 
 ## Route
 
-{% include komoot id="86047695" %}
+{% include route_map.html id="86047695" %}

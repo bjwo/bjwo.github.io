@@ -22,4 +22,4 @@ We slept in a somewhat hidden [shelter above the Uusikaupunki golf course](https
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/42501208/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="42501208" %}

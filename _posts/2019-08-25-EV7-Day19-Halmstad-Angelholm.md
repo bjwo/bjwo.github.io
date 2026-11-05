@@ -24,4 +24,4 @@ Fortunately, this night the loud geese were a bit further away.
 
 ## Route
 
-{% include komoot id="89132662" %}
+{% include route_map.html id="89132662" %}

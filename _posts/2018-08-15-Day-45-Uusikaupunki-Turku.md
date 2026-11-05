@@ -30,4 +30,4 @@ We slept on the [M/S Viking Grace](https://www.sales.vikingline.com/find-cruise-
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/42718292/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="42718292" %}

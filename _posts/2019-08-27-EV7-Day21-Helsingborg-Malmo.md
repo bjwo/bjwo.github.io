@@ -17,4 +17,4 @@ Somehow all hotels were booked out for our dates, so we had the choice between t
 
 ## Route
 
-{% include komoot id="89638747" %}
+{% include route_map.html id="89638747" %}

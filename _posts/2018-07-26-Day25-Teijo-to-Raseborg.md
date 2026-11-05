@@ -28,4 +28,4 @@ I slept in my tent [here](https://www.openstreetmap.org/way/541774639).
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/40202886/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="40202886" %}

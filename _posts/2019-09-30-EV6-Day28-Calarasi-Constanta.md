@@ -30,4 +30,4 @@ I was pretty exhausted and relieved, did my laundry and had dinner at a restaura
 
 ## Route
 
-{% include komoot id="97162991" %}
+{% include route_map.html id="97162991" %}

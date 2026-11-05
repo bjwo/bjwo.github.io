@@ -31,4 +31,4 @@ I made it in time, and there was even a decent restaurant still open (showing a 
 
 ## Route
 
-{% include komoot id="94671315" %}
+{% include route_map.html id="94671315" %}

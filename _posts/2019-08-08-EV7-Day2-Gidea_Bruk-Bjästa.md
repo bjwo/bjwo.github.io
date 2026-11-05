@@ -29,4 +29,4 @@ Therefore, a day that had started out very wet and not very promising actually t
 
 ## Route
 
-{% include komoot id="84759433" %}
+{% include route_map.html id="84759433" %}

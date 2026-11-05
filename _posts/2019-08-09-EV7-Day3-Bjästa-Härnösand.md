@@ -23,4 +23,4 @@ Great place!
 
 ## Route
 
-{% include komoot id="85009691" %}
+{% include route_map.html id="85009691" %}

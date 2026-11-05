@@ -26,4 +26,4 @@ In the evening I went to the cinema to see the new Brad Pitt movie. It was ok. ð
 
 ## Route
 
-{% include komoot id="96203686" %}
+{% include route_map.html id="96203686" %}

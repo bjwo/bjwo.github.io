@@ -19,4 +19,4 @@ There were some heavy rain showers in the night, but fortunately this shelter di
 
 ## Route
 
-{% include komoot id="87278684" %}
+{% include route_map.html id="87278684" %}

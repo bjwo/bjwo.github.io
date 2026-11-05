@@ -22,4 +22,4 @@ In the evening we again had a quick shower at a guest harbor and then found a be
 
 ## Route
 
-{% include komoot id="89132662" %}
+{% include route_map.html id="89132662" %}

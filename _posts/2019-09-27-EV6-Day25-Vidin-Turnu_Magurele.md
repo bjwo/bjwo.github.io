@@ -22,4 +22,4 @@ So I raced through the villages. I like the countryside in Romania. Lots of hors
 
 ## Route
 
-{% include komoot id="96346247" %}
+{% include route_map.html id="96346247" %}

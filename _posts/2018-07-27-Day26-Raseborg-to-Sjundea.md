@@ -26,4 +26,4 @@ I slept in my hammock [here](https://www.openstreetmap.org/way/554703689).
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/40294095/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="40294095" %}

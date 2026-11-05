@@ -20,4 +20,4 @@ We rode until we reached the little town of Bua, bought some dinner at a superma
 
 ## Route
 
-{% include komoot id="88468673" %}
+{% include route_map.html id="88468673" %}

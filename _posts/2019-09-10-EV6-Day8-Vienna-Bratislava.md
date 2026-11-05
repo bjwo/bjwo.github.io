@@ -28,4 +28,4 @@ I really love the city so far. It is far less touristy than Vienna, and I really
 
 ## Route
 
-{% include komoot id="92786926" %}
+{% include route_map.html id="92786926" %}

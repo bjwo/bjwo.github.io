@@ -24,4 +24,4 @@ We couldn't locate them at first, but after asking some locals they pointed us i
 
 ## Route
 
-{% include komoot id="86511762" %}
+{% include route_map.html id="86511762" %}

@@ -1,0 +1,17 @@
+{% assign uid = include.id | prepend: "route-" %}
+{% assign gpx_file = nil %}
+{% for f in site.static_files %}
+{% if f.extname == '.gpx' and f.path contains include.id %}
+{% assign gpx_file = f %}
+{% endif %}
+{%- endfor -%}
+<div class="route-figure" data-track-id="{{ include.id }}">
+  <div class="route-figure__map" id="{{ uid }}-map" role="img" aria-label="Map of this day's route"></div>
+  <div class="route-figure__chart" id="{{ uid }}-chart"></div>
+  <p class="route-figure__meta" id="{{ uid }}-meta"></p>
+{% if gpx_file %}
+  <p class="route-figure__download"><i class="fas fa-download" aria-hidden="true"></i> <a href="{{ gpx_file.path | relative_url }}">Download GPX track</a></p>
+{% endif %}
+</div>
+<script src="{{ '/assets/tracks/' | append: include.id | append: '.js' | relative_url }}"></script>
+<noscript><p class="route-figure__fallback">Enable JavaScript to see the map and altitude profile.</p></noscript>

@@ -21,4 +21,4 @@ We watched an amazing sunset with flocks of geese taking off and coming back aga
 
 ## Route
 
-{% include komoot id="88762997" %}
+{% include route_map.html id="88762997" %}

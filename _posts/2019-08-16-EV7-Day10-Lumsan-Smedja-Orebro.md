@@ -22,4 +22,4 @@ In the evening the sun came out and we had a nice picnic at Örebro's most iconi
 
 ## Route
 
-{% include komoot id="86800959" %}
+{% include route_map.html id="86800959" %}

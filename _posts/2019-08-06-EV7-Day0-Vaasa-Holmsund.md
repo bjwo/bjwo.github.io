@@ -19,4 +19,4 @@ On my bike trip last year I met another bike traveler on the way out from Berlin
 
 ## Route
 
-{% include komoot id="84334774" %}
+[View the route on Komoot](https://www.komoot.de/tour/84334774)

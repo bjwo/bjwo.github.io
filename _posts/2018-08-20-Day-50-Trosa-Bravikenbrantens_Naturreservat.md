@@ -28,4 +28,4 @@ We slept in a [nice shelter here](https://www.openstreetmap.org/node/3388000108)
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/43388323/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="43388323" %}

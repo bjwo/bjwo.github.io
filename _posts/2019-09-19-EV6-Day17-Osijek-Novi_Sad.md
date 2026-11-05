@@ -28,4 +28,4 @@ Across the street I had a really nice meat-heavy meal, with lots of raw onions a
 
 ## Route
 
-{% include komoot id="94858878" %}
+{% include route_map.html id="94858878" %}

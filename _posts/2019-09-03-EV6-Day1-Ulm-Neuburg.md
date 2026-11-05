@@ -18,4 +18,4 @@ The Donauradweg is really well developed, and there are plenty of cycle tourists
 
 ## Route
 
-{% include komoot id="91512765" %}
+{% include route_map.html id="91512765" %}

@@ -27,4 +27,4 @@ We slept at a shelter close to the bridge to Öland.
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/44690725/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="44690725" %}

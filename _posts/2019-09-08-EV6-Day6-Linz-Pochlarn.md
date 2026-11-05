@@ -25,4 +25,4 @@ I also treated myself to a pretty big burger that night. I think it was the last
 
 ## Route
 
-{% include komoot id="92471235" %}
+{% include route_map.html id="92471235" %}

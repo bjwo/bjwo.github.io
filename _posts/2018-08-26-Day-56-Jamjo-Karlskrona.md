@@ -20,4 +20,4 @@ We slept in a hotel.
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/44692517/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="44692517" %}

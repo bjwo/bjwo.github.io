@@ -28,4 +28,4 @@ They joined me for a beer at a nearby restaurant, where I had some very mediocre
 
 ## Route
 
-{% include komoot id="94278801" %}
+{% include route_map.html id="94278801" %}

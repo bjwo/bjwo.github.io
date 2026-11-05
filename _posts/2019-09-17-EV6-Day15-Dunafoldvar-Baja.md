@@ -45,4 +45,4 @@ It rained rather heavily several times throughout the night. And the two cats (w
 ## Route
 (I forgot to track the first kilometres.)
 
-{% include komoot id="94645588" %}
+{% include route_map.html id="94645588" %}

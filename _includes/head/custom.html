@@ -2,5 +2,8 @@
 <!-- TradeDoubler site verification 3296693 -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
+{%- if page.content contains 'route-figure' %}
+{% include head/leaflet.html %}
+{%- endif %}
 
 <!-- end custom head snippets -->

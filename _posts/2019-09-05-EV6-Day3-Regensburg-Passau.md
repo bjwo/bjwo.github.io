@@ -20,4 +20,4 @@ Again I am staying at the camp site of the local canoe club. When I got there, t
 
 ## Route
 
-{% include komoot id="91903254" %}
+{% include route_map.html id="91903254" %}

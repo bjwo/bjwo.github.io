@@ -21,4 +21,4 @@ I made it to Negotin, where I stayed in the [very lovely Urban Guerilla Hostel](
 
 ## Route
 
-{% include komoot id="96096657" %}
+{% include route_map.html id="96096657" %}

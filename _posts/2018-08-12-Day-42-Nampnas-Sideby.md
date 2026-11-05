@@ -25,4 +25,4 @@ We slept on the [Sideby Bird Observation Tower](https://www.openstreetmap.org/no
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/42279707/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="42279707" %}

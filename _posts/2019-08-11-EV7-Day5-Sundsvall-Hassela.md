@@ -22,4 +22,4 @@ We did get to see the sun later. But given the violent rain showers throughout t
 
 ## Route
 
-{% include komoot id="85647098" %}
+{% include route_map.html id="85647098" %}

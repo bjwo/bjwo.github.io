@@ -25,4 +25,4 @@ I made it to a nice little camp site on the other side of the river. The standar
 
 ## Route
 
-{% include komoot id="95821944" %}
+{% include route_map.html id="95821944" %}

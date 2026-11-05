@@ -24,4 +24,4 @@ I slept [somewhere here](https://www.openstreetmap.org/search?query=bergmannkiez
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/37875407/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="37875407" %}

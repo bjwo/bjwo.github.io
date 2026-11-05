@@ -22,4 +22,4 @@ We slept in a shooting range stand [somewhere here](https://osm.org/go/0aV4KMCz9
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/43262284/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="43262284" %}

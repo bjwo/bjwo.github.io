@@ -33,4 +33,4 @@ The room itself was very nice and clean, however. 🤷‍♂️
 
 ## Route
 
-{% include komoot id="96555451" %}
+{% include route_map.html id="96555451" %}

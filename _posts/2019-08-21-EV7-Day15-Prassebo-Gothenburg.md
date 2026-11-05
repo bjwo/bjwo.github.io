@@ -19,4 +19,4 @@ Göteborg is clearly a cycling city, with lots of dedicated bike lanes — and t
 
 ## Route
 
-{% include komoot id="87871799" %}
+{% include route_map.html id="87871799" %}

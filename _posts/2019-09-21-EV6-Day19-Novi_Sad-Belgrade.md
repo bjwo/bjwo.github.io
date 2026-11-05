@@ -24,4 +24,4 @@ The timing was really good for some people watching. When traveling, what I like
 
 ## Route
 
-{% include komoot id="95648281" %}
+{% include route_map.html id="95648281" %}

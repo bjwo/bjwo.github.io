@@ -20,4 +20,4 @@ Tonight I am sleeping on the camp site of the canoe club in Regensburg.
 
 ## Route
 
-{% include komoot id="91733919" %}
+{% include route_map.html id="91733919" %}

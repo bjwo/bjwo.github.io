@@ -20,4 +20,4 @@ The region here is so beautiful, but I'll let the pictures speak for themselves.
 
 ## Route
 
-{% include komoot id="85839016" %}
+{% include route_map.html id="85839016" %}

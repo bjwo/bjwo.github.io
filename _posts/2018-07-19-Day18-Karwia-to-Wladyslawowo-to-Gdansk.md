@@ -35,4 +35,4 @@ I slept [here](https://www.openstreetmap.org/node/5993944785).
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/39321724/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="39321724" %}

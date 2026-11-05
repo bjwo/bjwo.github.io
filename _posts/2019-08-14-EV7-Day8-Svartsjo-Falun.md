@@ -20,4 +20,4 @@ Then we went back to our hotel, did some laundry, went to the sauna, had dinner 
 
 ## Route
 
-{% include komoot id="86335677" %}
+{% include route_map.html id="86335677" %}

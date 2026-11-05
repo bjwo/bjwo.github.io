@@ -21,4 +21,4 @@ For the night I again took my own room (sobe) in a B&B, with a balcony overlooki
 
 ## Route
 
-{% include komoot id="95938188" %}
+{% include route_map.html id="95938188" %}

@@ -22,4 +22,4 @@ We put up our tent just in time, as it started raining again… Unfortunately it
 
 ## Route
 
-{% include komoot id="85598932" %}
+{% include route_map.html id="85598932" %}

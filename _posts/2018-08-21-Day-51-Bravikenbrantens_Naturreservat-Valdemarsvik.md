@@ -22,4 +22,4 @@ We slept in a [nice shelter somewhere here](https://osm.org/go/0Y7mU8Dw). It isn
 
 ### Route
 
-<iframe src="https://www.komoot.de/tour/43497674/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+{% include route_map.html id="43497674" %}

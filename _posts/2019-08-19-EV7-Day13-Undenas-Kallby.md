@@ -17,4 +17,4 @@ We found a nice shelter at _Lasse's and Inga's cave_ — a couple who built a ho
 
 ## Route
 
-{% include komoot id="87585106" %}
+{% include route_map.html id="87585106" %}

@@ -23,4 +23,4 @@ In the evening we went to see the final rehearsal for the "Linzer Klangwolke 201
 
 ## Route
 
-{% include komoot id="92471152" %}
+{% include route_map.html id="92471152" %}

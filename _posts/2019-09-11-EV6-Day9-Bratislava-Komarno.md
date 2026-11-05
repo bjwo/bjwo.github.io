@@ -24,4 +24,4 @@ So I only made it to Komárno, still in Slovakia, but right across the bridge fr
 
 ## Route
 
-{% include komoot id="93057629" %}
+{% include route_map.html id="93057629" %}

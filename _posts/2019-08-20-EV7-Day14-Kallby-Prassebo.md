@@ -17,4 +17,4 @@ Found a shelter directly on a public swimming beach.
 
 ## Route
 
-{% include komoot id="87713296" %}
+{% include route_map.html id="87713296" %}

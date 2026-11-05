@@ -27,4 +27,4 @@ All in all, a pretty great first day.
 
 ## Route
 
-{% include komoot id="84517084" %}
+{% include route_map.html id="84517084" %}
