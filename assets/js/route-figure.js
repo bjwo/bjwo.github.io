@@ -46,25 +46,34 @@
 
     var minZoom = ZOOMS[0];
     var maxZoom = ZOOMS[ZOOMS.length - 1];
-    var map = L.map(container, { scrollWheelZoom: false, minZoom: minZoom, maxZoom: maxZoom });
-    L.tileLayer(TILE_URL, {
+
+    // Centre the map on the route and create it already at the overview zoom.
+    // Using fitBounds() here would make Leaflet ask for the intermediate zooms
+    // it picks (z8/z9) before snapping, and those have no tiles, so the map
+    // showed the placeholder pattern instead of a basemap.
+    var latlngs = points.map(function (p) { return [p[0], p[1]]; });
+    var bounds = L.latLngBounds(latlngs);
+    var map = L.map(container, {
+      scrollWheelZoom: false,
+      minZoom: minZoom,
+      maxZoom: maxZoom,
+      center: bounds.getCenter(),
+      zoom: minZoom,
+    });
+    var tiles = L.tileLayer(TILE_URL, {
       minZoom: minZoom,
       maxZoom: maxZoom,
       maxNativeZoom: maxZoom,
       noWrap: true,
       attribution: TILE_ATTRIBUTION,
-    }).addTo(map);
+    });
+    tiles.addTo(map);
 
-    // Only z5 and z10 have tiles, and Leaflet cannot skip levels. Track the
-    // last settled level so an in-between zoom can be snapped in the same
-    // direction the user was travelling: outwards lands on the overview,
-    // inwards on the detail. Snapping to the "nearest" level made zoom-out
-    // from z10 jump straight back to z10, which looked broken.
-    //
-    // The flag matters: fitBounds() fires zoomend while the view is still
-    // being set up, and without it the initial fit was treated as a user
-    // zoom-out and forced the map to z5 on every page.
-    var settled = maxZoom;
+    // Only z5 and z10 have tiles and Leaflet cannot skip levels, so an
+    // in-between zoom is snapped in the direction of travel: outwards lands on
+    // the overview, inwards on the detail. `ready` keeps this handler out of
+    // the initial setup.
+    var settled = minZoom;
     var ready = false;
     map.on("zoomend", function () {
       if (!ready) return;
@@ -76,8 +85,6 @@
       var goingOut = current < settled;
       map.setZoom(goingOut ? ZOOMS[0] : ZOOMS[ZOOMS.length - 1]);
     });
-
-    var latlngs = points.map(function (p) { return [p[0], p[1]]; });
 
     // Reference layer first, so the current day is drawn on top of it by
     // default and needs no re-ordering. bringToFront() is avoided during
@@ -126,14 +133,7 @@
       .addTo(map)
       .bindTooltip("Finish");
 
-    // Open framed on the route at the most detailed available level. fitBounds
-    // on a ~100 km day picks z6-z7, which have no tiles, so snap to z10 and
-    // keep the centred view. The coarser level stays reachable by zooming out.
-    map.fitBounds(line.getBounds(), { padding: [24, 24] });
-    var detailed = ZOOMS[ZOOMS.length - 1];
-    map.setZoom(detailed);
-
-    // Initial fit is done; let the snapping handler take over from here.
+    // Setup is done; let the snapping handler take over from here.
     settled = map.getZoom();
     ready = true;
 
@@ -149,7 +149,13 @@
       window.addEventListener("resize", function () { map.invalidateSize(); });
     }
     // One deferred pass covers the common case of the layout settling late.
-    setTimeout(function () { map.invalidateSize(); }, 0);
+    // The redraw matters: invalidateSize() re-measures the container, but the
+    // tiles already in the DOM keep whatever size they were given before the
+    // re-measure, which showed up as a blank strip at the map edge.
+    setTimeout(function () {
+      map.invalidateSize();
+      tiles.redraw();
+    }, 0);
 
     return map;
   }

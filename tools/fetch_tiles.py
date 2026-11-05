@@ -113,6 +113,8 @@ def main() -> int:
     parser.add_argument("--tile-url", default=DEFAULT_URL, help="upstream XYZ tile endpoint")
     parser.add_argument("--delay", type=float, default=0.2, help="seconds between requests (default 0.2)")
     parser.add_argument("--dry-run", action="store_true", help="only report how many tiles would be fetched")
+    parser.add_argument("--block", type=int, default=0,
+                        help="instead of a per-track ring, fill a single rectangle around all tracks, padded by N tiles")
     args = parser.parse_args()
 
     zooms = args.zoom or [11]
@@ -138,7 +140,18 @@ def main() -> int:
 
     total_written = total_skipped = total_failed = 0
     for zoom in zooms:
-        tiles = sorted(tiles_for_zoom(gpx_files, zoom, args.ring))
+        if args.block:
+            points = [pt for gpx in gpx_files for pt in route_points(gpx)]
+            xs = [tile_x(lon, zoom) for lat, lon in points]
+            ys = [tile_y(lat, zoom) for lat, lon in points]
+            pad = args.block
+            tiles = [
+                (x, y)
+                for x in range(min(xs) - pad, max(xs) + pad + 1)
+                for y in range(min(ys) - pad, max(ys) + pad + 1)
+            ]
+        else:
+            tiles = sorted(tiles_for_zoom(gpx_files, zoom, args.ring))
         print(f"z{zoom}: {len(tiles)} tiles")
         if args.dry_run:
             continue

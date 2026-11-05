@@ -28,13 +28,35 @@ h2 {
 
 /* Route figure: map + altitude profile (see _includes/route_map.html) */
 .route-figure {
-  margin: 1.5em 0;
+  margin: 1.75em 0;
+  padding: 0;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: $background-color;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), 0 4px 14px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+
+/* Stats strip above the map */
+.route-figure__meta {
+  margin: 0;
+  padding: 0.6em 0.9em;
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: mix(#fff, $text-color, 25%);
+  background: $lighter-gray;
+  border-bottom: 1px solid $border-color;
+}
+
+.route-figure__meta:empty {
+  display: none;
 }
 
 .route-figure__map {
   height: 520px;
-  border-radius: 3px;
-  background: #eef1f4;
+  background: $lighter-gray;
 }
 
 @media (max-width: 600px) {
@@ -43,27 +65,30 @@ h2 {
   }
 }
 
+/* Altitude profile */
 .route-figure__chart {
-  margin-top: 0.4em;
   position: relative;
+  padding: 0.5em 0.9em 0.2em;
+  border-top: 1px solid $border-color;
+  background: mix(#fff, $lighter-gray, 60%);
 }
 
 .route-figure__chart[data-readout]::after {
   content: attr(data-readout);
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 0.4em;
+  right: 0.9em;
   padding: 1px 6px;
-  font-size: 0.7em;
-  background: rgba(255, 255, 255, 0.9);
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 0.66em;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid $border-color;
   border-radius: 3px;
   pointer-events: none;
 }
 
 .route-figure__cursor {
   position: absolute;
-  top: 0;
+  top: 0.5em;
   bottom: 1.4em;
   width: 1px;
   background: rgba(0, 0, 0, 0.35);
@@ -71,20 +96,38 @@ h2 {
   pointer-events: none;
 }
 
-.route-figure__meta,
 .route-figure__download {
-  margin: 0.3em 0 0;
+  margin: 0;
+  padding: 0.45em 0.9em 0.6em;
+  font-size: 0.7em;
+  color: mix(#fff, $text-color, 30%);
+  background: mix(#fff, $lighter-gray, 60%);
+}
+
+.route-figure__download a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.route-figure__download a:hover {
+  color: $link-color-hover;
+}
+
+.route-figure__fallback {
+  margin: 0;
+  padding: 0.6em 0.9em;
   font-size: 0.75em;
-  color: #4a4a4a;
 }
 
+/* Leaflet sits flush inside the card */
+.route-figure .leaflet-container {
+  font-family: inherit;
+  background: $lighter-gray;
+}
+
+/* A missing tile should read as open water/map edge, not as a broken
+   hatch pattern, so the placeholder is a flat tone close to the CyclOSM
+   background. */
 html[data-tile-base]:not([data-tile-base=""]) .route-figure__map {
-  background-image: repeating-linear-gradient(
-    45deg,
-    #eef1f4,
-    #eef1f4 10px,
-    #e7ebef 10px,
-    #e7ebef 20px
-  );
+  background-color: #dde7ee;
 }
-
