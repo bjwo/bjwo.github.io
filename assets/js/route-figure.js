@@ -78,34 +78,36 @@
     });
 
     var latlngs = points.map(function (p) { return [p[0], p[1]]; });
-    var line = L.polyline(latlngs, { color: "#1f6fb2", weight: 4, opacity: 0.85 }).addTo(map);
 
-    // Reference layer: every other day in grey, so the overview shows where
-    // this day sits in the wider trip. Added after the current route so it
-    // starts on top, then sent behind it; hover brings a line forward.
+    // Reference layer first, so the current day is drawn on top of it by
+    // default and needs no re-ordering. bringToFront() is avoided during
+    // setup: on a layer whose SVG path does not exist yet it throws and
+    // aborts the whole map (no tiles, no zoom control).
     var overview = window.TRACK_OVERVIEW || [];
+    // At overview zoom a 2px/55% line all but disappears against the map, so
+    // the reference routes are drawn noticeably stronger there.
+    var GREY = { color: "#6b6b6b", weight: 3, opacity: 0.85 };
+    var GREY_ACTIVE = { color: "#1f6fb2", weight: 5, opacity: 1 };
+
     overview.forEach(function (entry) {
       if (!entry.points || !entry.points.length) return;
       if (entry.id === trackId) return;
 
       var grey = L.polyline(
         entry.points.map(function (p) { return [p[0], p[1]]; }),
-        { color: "#8a8a8a", weight: 2, opacity: 0.55, interactive: true }
+        { color: GREY.color, weight: GREY.weight, opacity: GREY.opacity, interactive: true }
       ).addTo(map);
 
-      var restyle = function (active) {
-        grey.setStyle(
-          active
-            ? { color: "#4a4a4a", weight: 4, opacity: 0.95 }
-            : { color: "#8a8a8a", weight: 2, opacity: 0.55 }
-        );
-        if (active) grey.bringToFront();
-        else line.bringToFront();
-      };
-
       grey.bindTooltip(entry.name || entry.id, { sticky: true });
-      grey.on("mouseover", function () { restyle(true); });
-      grey.on("mouseout", function () { restyle(false); });
+      grey.on("mouseover", function () {
+        grey.setStyle(GREY_ACTIVE);
+        // Safe here: by the time a hover happens the layer's SVG path exists.
+        // (Calling this during setup is what previously broke the map.)
+        if (grey._path) grey.bringToFront();
+      });
+      grey.on("mouseout", function () {
+        grey.setStyle(GREY);
+      });
 
       if (entry.url) {
         grey.on("click", function () { window.location.href = entry.url; });
@@ -115,7 +117,7 @@
       }
     });
 
-    line.bringToFront();
+    var line = L.polyline(latlngs, { color: "#1f6fb2", weight: 4, opacity: 0.85 }).addTo(map);
 
     L.circleMarker(latlngs[0], { radius: 6, color: "#1a7f37", fillOpacity: 1 })
       .addTo(map)
@@ -134,6 +136,20 @@
     // Initial fit is done; let the snapping handler take over from here.
     settled = map.getZoom();
     ready = true;
+
+    // Leaflet measures the container when the map is created. Anything that
+    // changes its size afterwards (webfonts, images above the map settling,
+    // window resizing) leaves that measurement stale, and tiles then fail to
+    // cover the whole width.
+    var resize;
+    if (typeof ResizeObserver !== "undefined") {
+      resize = new ResizeObserver(function () { map.invalidateSize(); });
+      resize.observe(container);
+    } else {
+      window.addEventListener("resize", function () { map.invalidateSize(); });
+    }
+    // One deferred pass covers the common case of the layout settling late.
+    setTimeout(function () { map.invalidateSize(); }, 0);
 
     return map;
   }
