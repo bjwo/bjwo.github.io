@@ -24,7 +24,7 @@ We decided that we would wild camp together. So we went to a supermarket, bought
 
 On our way there, we saw a stranded cyclist with a broken chain. Fortunately, Guus had an extra chain link, so we were able to help him back on track. He was so happy, but couldn't speak a word of English or German. So he decided to guide us to the camp site.
 
-It looked really nice. The [wild camp site](https://goo.gl/maps/yWPvsfeH2fx5k7pA8) had a nice little hut and several benches on the bank of a river. Unfortunately, the river didn't look clean enough for swimming. There was a well / water pump nearby, but when I went to the well to wash myself, a guy from the nearby house stopped me. We could communicate with some broken German. Basically, I think he told me that the water has too much iron. He ended up inviting me to use the shower in his garage.
+It looked really nice. The [wild camp site](https://goo.gl/maps/yWPvsfeH2fx5k7pA8) had a nice little hut and several benches on the bank of a river. The river didn't look clean enough for swimming. There was a well / water pump nearby, but when I went to the well to wash myself, a guy from the nearby house stopped me. We could communicate with some broken German. Basically, I think he told me that the water has too much iron. He ended up inviting me to use the shower in his garage.
 
 Having a shower at the end of a cycling day is probably the biggest and nicest luxury I can think of these days.
 

@@ -13,7 +13,7 @@ I'm a bit late with the report on yesterday. I started out in Anklam and quickly
 <br><br>
 Then I crossed over to Poland and saw the Baltic Sea for the first time on this journey. 😍
 <br><br>
-Also, I am now following the EuroVelo 10 #ev10 cycle trail. Unfortunately, the road conditions are quite terrible for bike tourists, as there are long stretches of deep sandy roads through the woods, or old military cobblestone roads for miles and miles — less than ideal if you carry four bags and a tent on your bike. The only alternative is riding the highway without cycleways, where I would probably be killed by some truck-driving maniac sooner rather than later.<br>
+Also, I am now following the EuroVelo 10 #ev10 cycle trail. The road conditions are difficult for bike tourists: long stretches of deep sand through the woods, or miles of old military cobblestone — less than ideal if you carry four bags and a tent on your bike. The only alternative is riding the main road, which has no cycleway, alongside heavy truck traffic.<br>
 Also, all the beach towns are very touristy and they are PACKED during this time, as it's holiday season in Poland. And the tourist mile looks like it could be anywhere in the world.
 <br><br>
 However, there are lots of beautiful national parks and long stretches of amazing sand beaches with no people for miles. So that makes up for it all. 😊

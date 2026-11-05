@@ -7,7 +7,7 @@ tags:
   - Finland
 ---
 {% include ig_post url="https://www.instagram.com/p/BluucLIl7bq/" %}
-_Started a bit late, and first I had to run some errands, like getting a Finnish SIM card and fixing my lowrider. Unfortunately, a rather special part broke (I guess due to the very shaky roads in northern Poland and Saxony), and I wasn't able to find a proper replacement, so again I did it using my MacGyver skills. 😉
+_Started a bit late, and first I had to run some errands, like getting a Finnish SIM card and fixing my lowrider. A rather special part had broken (probably down to the very shaky roads in northern Poland and Saxony), and I couldn't find a proper replacement, so again I did it using my MacGyver skills. 😉
 <br><br>
 Then my first entertaining moment was when I saw the young guy who had passed me very fast on his e-chopper bike — he had run out of battery. Those are the little things that make you happy on a bike. 😂
 <br><br>

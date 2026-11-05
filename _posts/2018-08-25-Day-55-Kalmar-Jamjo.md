@@ -8,7 +8,7 @@ tags:
 ---
 {% include ig_post url="https://www.instagram.com/p/Bm7oWuIlapv/" %}
 _We rode from Kalmar to Jämjö yesterday, ca. 95 km.
-We really liked the city of Kalmar, one of the oldest Swedish cities. Did a little bit of sightseeing, and found a bike shop that would take a look at Dani's bike — unfortunately they also couldn't figure out where the weird sound was coming from.
+We really liked the city of Kalmar, one of the oldest Swedish cities. Did a little bit of sightseeing, and found a bike shop that would take a look at Dani's bike — though they also couldn't figure out where the weird sound was coming from.
 <br><br>
 We have left the hilly Småland and are now in an area with wide plains — leaving us exposed to the strong headwind.
 <br><br>

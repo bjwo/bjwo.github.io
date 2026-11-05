@@ -12,9 +12,9 @@ Today we set aside some time for sightseeing in Helsingborg, so we didn't push t
 
 This even gave us some time to spend at a Helsingborg city beach, with a nice view of Denmark and the ferries shuttling between Helsingborg and Helsingør.
 
-Unfortunately, this already brought us to the end of the Kattegattleden. We really enjoyed it and can highly recommend it.
+This brought us to the end of the Kattegattleden. We really enjoyed it and can highly recommend it.
 
-In the evening we again had a quick shower at a guest harbor and then found a beautiful shelter directly on the beach. Unfortunately, it was already occupied by a group of four German students, who were also on a bike trip, and they kindly offered to share the shelter with us.
+In the evening we again had a quick shower at a guest harbor and then found a beautiful shelter directly on the beach. It was already occupied by a group of four German students, also on a bike trip, who kindly offered to share the shelter with us.
 
 ## Photos
 

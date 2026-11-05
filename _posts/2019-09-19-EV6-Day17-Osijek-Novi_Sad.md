@@ -10,7 +10,7 @@ tags:
   - Hostel
 ---
 
-In the morning I cycled into the city of Osijek. My new Hungarian SIM card still wasn't working, and I really wanted to find out why, as I would be without any data connection otherwise. I lost another hour trying to get it to work: in the end I had to send a special code which was not documented in any of the official T-Mobile Hungary documentation. I was really annoyed that I had lost time again.
+In the morning I cycled into the city of Osijek. My new Hungarian SIM card still wasn't working, and I really wanted to find out why, as I would be without any data connection otherwise. I lost another hour trying to get it to work: in the end I had to send a special code which was not documented in any of the official T-Mobile Hungary documentation. Losing another hour of daylight was galling.
 
 The roads in Croatia were ok, but only because they were directly on the highway. The signage for the route was weird: in places where you would need a sign (intersections), there were none. However, in places where you didn't need them, like after riding on a straight highway for 10 km, there were plenty of them.
 

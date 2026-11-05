@@ -10,7 +10,7 @@ tags:
 _Life on the road continues… Not much to tell: the area is very hilly, which always makes for an exhausting ride, and the headwind doesn't help either. 😉 However, the sun is shining and morale is still good.
 <br><br>
 We cycled roughly 90 km from Valdemarsvik to Västervik. <br>
-Unfortunately, the shelter we had picked out for the night was hogged by German campervan tourists (grr), but we could find another one nearby._
+The shelter we had picked out for the night was already taken by some German campervanners, but we found another one nearby._
 {: .notice}
 
 ### Overnight stay

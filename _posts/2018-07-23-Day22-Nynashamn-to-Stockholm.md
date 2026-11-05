@@ -18,7 +18,7 @@ Then I had some Swedish köttbullar for dinner, bathed and washed myself at a pu
 #79km #cycle2finland #ferry2ferry
 {: .notice}
 
-Originally my plan was to stay directly inside the ferry terminal. However — unfortunately it was closed during the night. So while I was sitting in front of the terminal trying to figure out where I could camp for the night, an old guy came by on his bicycle on his little evening tour. First he passed by, but after a little while he turned around and started talking to me. He was worried that I did not have a place to sleep for the night and invited me over to his place. But as my ferry left very early in the morning and it was already quite late, I did not want to take him up on his offer, not to be a burden. But it was still very sweet.
+Originally my plan was to stay directly inside the ferry terminal. However, it was closed during the night. So while I was sitting in front of the terminal trying to figure out where I could camp for the night, an old guy came by on his bicycle on his little evening tour. First he passed by, but after a little while he turned around and started talking to me. He was worried that I did not have a place to sleep for the night and invited me over to his place. But as my ferry left very early in the morning and it was already quite late, I did not want to take him up on his offer, not to be a burden. But it was still very sweet.
 
 I slept [here](https://www.openstreetmap.org/node/5302866948).
 

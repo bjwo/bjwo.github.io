@@ -14,7 +14,7 @@ We were quite confident with our progress, and had plenty of time to do the last
 <br><br>
 However, right before our lunch break Dani's derailleur hanger broke — in the middle of nowhere with 38 km to go. (For the non-bikers: this is one of the worst things that can break while bike touring, as every manufacturer uses their own design in many varieties, and it can be really difficult to find a replacement for a German bike abroad.) So I had to shorten the chain to convert Dani's bike to a fixed gear, however I had some trouble getting the Shimano quick link fastened. After some time a Finnish guy passing with his car stopped (thank you, Parvo!!) and together we could get it done. He even offered to bring us to Turku if all else failed — so very kind!
 <br><br>
-So I took a saddle bag off Dani's bike, and she now fought the rest of the hills with only one gear, and eventually we made it to Turku in time.
+So I took a saddle bag off Dani's bike, and she rode the remaining hills on a single gear. We made it to Turku in time.
 Quite worried that we can't find the right spare parts in Stockholm.
 <br><br>
 As soon as our heads hit the mattress, we fell into a sound sleep._

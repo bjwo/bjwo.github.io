@@ -17,7 +17,7 @@ Originally our plan was to travel home from Copenhagen by train. There is an ICE
 
 So the next best option was to book a FlixBus coach going directly from Copenhagen to Mannheim. The pros were the cheap price, the direct connection and the proper bicycle carriers on the back of the coach. The big con was being stuck like a sardine in a can for almost 18 h.
 
-We booked the bus leaving at 22:00, so we took the train across the Öresund Bridge (unfortunately, cycling is not allowed) and had the whole Thursday to explore Copenhagen. We had been there for New Year's Eve a year and a half ago, but it was beautiful to see the city in summer, too.
+We booked the bus leaving at 22:00, so we took the train across the Öresund Bridge (cycling is not allowed there) and had the whole Thursday to explore Copenhagen. We had been there for New Year's Eve a year and a half ago, but it was beautiful to see the city in summer, too.
 
 We had a luggage allowance of one suitcase and one item of hand luggage each. But as I only had the smaller bike panniers, we wrapped them together using cling film to form two pieces of luggage. When the bus came, however, nobody cared or checked how many pieces of luggage were booked. So that's some trouble we could have saved ourselves. 😉
 

@@ -16,7 +16,7 @@ We were already quite exhausted and hungry when we reached Örnsköldsvik for lu
 Because the weather had changed for the better (contrary to what the forecast said), we decided to continue cycling.
 Shortly after the small town of Bjästa (where we bought dinner at a supermarket and filled up all our water bottles) we met an old lady whom Björn asked about shelters nearby.
 She recommended a shelter/house as well as a public bath at a lake where we could take a shower. We had to climb a few hills before we found the place. And what a place! Next to a small beach there was a sauna and a hot (!!!) shower as well as a few picnic tables. After a strenuous day like today it felt like heaven.
-I even went for a little swim in the lake. Unfortunately we didn't have enough time to heat up the sauna. 😄
+I even went for a little swim in the lake. We didn't have enough time to heat up the sauna. 😄
 
 We did not expect the last 4 km to the shelter to be so hard, as we had to cycle on a sandy gravel road going mostly uphill with all our water bottles full.
 We were rewarded twice: first we got to see a wild moose 🦌 running through the woods — who seemed even more surprised than us. Second, we found the shelter to be a proper house with an oven and firewood (Skrikestuga, Bjästa).

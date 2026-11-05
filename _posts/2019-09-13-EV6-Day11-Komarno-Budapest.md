@@ -11,8 +11,8 @@ tags:
 ---
 Still a little sick, but not sick enough to stay another day. I pushed on through to Budapest today, which means that I'm in Hungary now!
 
-Unfortunately, I already got a little taste of the rest of the trip today: for the large majority of the route I had to share the road with cars. I was a bit surprised by this, as the stretch from Vienna to Budapest is very popular with cycling tourists — and I saw quite a few bike tourists on their rented bikes, too. So I really would have expected a nicer route.
-Unfortunately, I can't show you, as taking pictures with the overtaking cars and trucks really wouldn't be safe.
+Today also gave a preview of the rest of the trip: for most of the route I had to share the road with cars. I was surprised by this, as the stretch from Vienna to Budapest is very popular with cycling tourists — I saw quite a few on rented bikes, too — so I had expected a nicer route.
+I can't show you why, as taking pictures among overtaking cars and trucks isn't safe.
 
 The basilica in Esztergom was really pretty.
 

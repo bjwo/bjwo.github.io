@@ -15,7 +15,7 @@ Getting close to the Croatian border, I could see a fence and huge watchtowers. 
 
 As it was already a little late, I used Komoot to plan a shortcut for me to Osijek, to a camping place I had found. The route seemed fine to me, and I believed it would be smooth sailing.
 
-But oh boy, I was wrong. There were some hills in the way, and the roads Komoot suggested just didn't exist. Unfortunately, I only found this out when I was almost at the top of the hills.
+But oh boy, I was wrong. There were some hills in the way, and the roads Komoot suggested just didn't exist. I only found this out when I was almost at the top of the hills.
 
 So back down again, and I had to hope that the only other little path would get me over the top. So I was stuck in the middle of nowhere with no water left and only one hour until sunset.
 

@@ -7,12 +7,12 @@ tags:
   - Finland
 ---
 {% include ig_post url="https://www.instagram.com/p/BmeVzpXFYZp/" %}
-_Yesterday we cycled from our bird-watching tower to Pinkjärvi — Pink Lake — near Eurajoki. Unfortunately, it has now cooled down quite a bit in Finland after many hot weeks, and we now have a typical Finnish summer with rain and lots of wind at around 17 °C. 😉
+_Yesterday we cycled from our bird-watching tower to Pinkjärvi — Pink Lake — near Eurajoki. After many hot weeks Finland has cooled down, and we now have a typical Finnish summer: rain and plenty of wind at around 17 °C. 😉
 <br><br>
 We had a lunch break at a golf club in Björneborg / Pori — and the caddie master there was so kind as to let us use their sauna and showers for free — much appreciated after riding through the cold rain. We felt like we were reborn.<br>
-But the hardest part was still ahead of us, as we would learn.<br>
+The hardest part of the day was still ahead of us.<br>
 <br>
-All in all we rode 128 km and 890 hm — and had to climb some unexpected hills in very (!) bad terrain (the map data failed us once again: "mostly flat" / "well developed roads") at the end to reach our shelter. It was a tough fight for both of us, and Dani fought even harder — and won! 💪💪💪 We were rewarded with an amazing sunset, as you can see from the pictures._
+All in all we rode 128 km and 890 hm — and had to climb some unexpected hills in very (!) rough terrain at the end (the map data said "mostly flat" and "well developed roads") to reach our shelter. It was a demanding finish for both of us, and Dani rode it on her own terms. We were rewarded with an amazing sunset, as you can see from the pictures._
 {: .notice}
 
 ### Overnight stay

@@ -7,7 +7,7 @@ tags:
   - Sweden
   - Vindskydd
 ---
-Very strong headwind again today. And even more rainy clouds on the radar, coming directly at us. We had to reroute due to the heavy rain cells (and therefore unfortunately missed out on _Trollhättan_ and _Vänersborg_), but managed to stay dry all day. Quite a big accomplishment, we think.
+Very strong headwind again today. And even more rainy clouds on the radar, coming directly at us. We had to reroute due to the heavy rain cells (so we missed out on _Trollhättan_ and _Vänersborg_), but managed to stay dry all day. Quite a big accomplishment, we think.
 
 Found a shelter directly on a public swimming beach.
 

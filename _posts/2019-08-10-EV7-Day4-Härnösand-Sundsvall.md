@@ -14,7 +14,7 @@ After about 50 km we entered the civilized world again and stopped for a late lu
 As our legs were a bit tired and the weather was supposed to turn, we only continued to Sundsvall and spent a little time in the city center.
 
 We then continued to a nearby lake called Sidsjön, where we found a shelter for the night — we even had a hot "shower" with water from the public restrooms.
-We put up our tent just in time, as it started raining again… Unfortunately it turned out that the shelter was not quite rainproof and there were bigger drops drumming on the sheet metal roof all night. So we didn't sleep too well that night.
+We put up our tent just in time, as it started raining again… It turned out that the shelter was not quite rainproof and there were bigger drops drumming on the sheet metal roof all night. So we didn't sleep too well that night.
 
 ## Photos
 

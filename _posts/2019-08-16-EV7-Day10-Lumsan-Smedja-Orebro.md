@@ -10,7 +10,7 @@ tags:
 ---
 We were on the road quite early today and had made more than 60 km before lunch, even though the weather was just mediocre.
 
-Unfortunately, Dani then had a little accident. Her bicycle had tipped over, and when she lifted it again she hurt her back and was in quite a bit of pain.
+Dani then had a small accident. Her bicycle had tipped over, and when she lifted it again she hurt her back and was in quite a bit of pain.
 
 We tried to go to a medical center in Nora, but we were turned away — I guess because it was so close to the weekend. 🙄 Fortunately, we know some great doctors, and after consulting them over the phone we felt safe enough to continue to Örebro, where we checked into a hotel with a sauna, as some heat and relaxation should be good for Dani's back.
 

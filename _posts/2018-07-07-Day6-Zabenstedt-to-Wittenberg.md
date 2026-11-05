@@ -11,7 +11,7 @@ _Rode from the Saale river to the next (and last) Luther city. It felt so hot th
 My new route led me through Gräfenhainichen — but it turned out that there was a gigantic hip-hop festival going on, so I couldn't pass through along the regular cycling route. I had to find a detour, which turned out to be a little tricky.<br>
 Then I got to the camp site at the lake, which was WAY too crowded for my taste, so I decided to go on to Wittenberg.
 <br>
-Wittenberg is a really pretty town; unfortunately I didn't have too much time to explore it in depth. I had dinner at a restaurant before heading to my designated shelter for the night — which, as it turned out, wasn't a shelter after all, but a simple picnic table. 🤦 So I had to improvise and put up my hammock in the woods. #cycle2finland #deutschlandperrad #111km #660hm_
+Wittenberg is a really pretty town, though I had little time to explore it properly. I had dinner at a restaurant before heading to my designated shelter for the night — which, as it turned out, wasn't a shelter after all, but a simple picnic table. 🤦 So I had to improvise and put up my hammock in the woods. #cycle2finland #deutschlandperrad #111km #660hm_
 {: .notice}
 
 I slept [here](https://www.openstreetmap.org/node/4908741008).
