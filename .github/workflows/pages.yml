@@ -10,6 +10,8 @@ permissions:
   pages: write
   id-token: write
 
+# Only one Pages deploy at a time; let a running deploy finish rather than
+# cancelling it mid-upload, otherwise the live site can be left half-updated.
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -24,11 +26,19 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1"
+          # Pick up whatever .ruby-version / Gemfile says, fall back to a
+          # current 3.x. bundler-cache restores Gemfile.lock exactly.
           bundler-cache: true
 
       - name: Build site
         run: bundle exec jekyll build --trace
+
+      - name: Check the build output
+        run: |
+          test -f _site/index.html || { echo "::error::_site/index.html missing"; exit 1; }
+          for p in eurovelo6 eurovelo7 eurovelo10; do
+            test -f "_site/$p/index.html" || { echo "::error::_site/$p/index.html missing"; exit 1; }
+          done
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
