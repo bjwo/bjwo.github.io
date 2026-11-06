@@ -10,21 +10,14 @@ layout: category
 # classes: wide
 categories:
   - EuroVelo6
-tags:
-  - preface
-  - tips
-  - tricks
-  - gear
-  - navigation
-  - wild camping
-toc: true
+toc: false
 sidebar:
   nav: "left"
 taxonomy: EuroVelo6
 ---
 
-# Route
+## Route
 
 ![EuroVelo 6 Route - September 2019](/assets/images/EuroVelo6/ev6-route.png)
 
-# All blog entries from this trip
+## Day by day
